@@ -1,0 +1,459 @@
+# Copyright (C) 2017 WolfThemes
+# This file is distributed under the same license as the Wolf Albums package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Albums 1.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-albums\n"
+"POT-Creation-Date: 2017-02-16 14:46:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/admin/class-wa-admin.php:108
+msgid ""
+"says : <em>Almost done! you need to <a href=\"%1$s\">create a page</a> for "
+"your albums or <a href=\"%2$s\">select an existing page</a> in the plugin "
+"settings</em>."
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:126
+msgid ""
+"<br><br>\r\n"
+"\t\t\t\t\t<a href=\"%1$s\" class=\"button button-primary\">Create a "
+"page</a>\r\n"
+"\t\t\t\t\t&nbsp;\r\n"
+"\t\t\t\t\t<a href=\"%2$s\" class=\"button button-primary\">Select an "
+"existing page</a>\r\n"
+"\t\t\t\t\t&nbsp;\r\n"
+"\t\t\t\t\t<a href=\"%3$s\" class=\"button\">Skip setup</a>"
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:175
+msgid "Albums"
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:188
+msgid "Your albums page has been created succesfully"
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:210
+msgid "You are currently editing the page that shows the albums."
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:256
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:272
+msgid "Edit \"%s\""
+msgstr ""
+
+#: inc/admin/class-wa-admin.php:281 inc/admin/class-wa-options.php:40
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:236 inc/admin/class-wa-metabox.php:251
+#: inc/admin/class-wa-metabox.php:296 inc/admin/class-wa-metabox.php:476
+#: inc/admin/class-wa-metabox.php:484 inc/admin/class-wa-metabox.php:492
+#: inc/admin/class-wa-metabox.php:501
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:237 inc/admin/class-wa-metabox.php:477
+#: inc/admin/class-wa-metabox.php:485 inc/admin/class-wa-metabox.php:493
+msgid "Choose a file"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:252 inc/admin/class-wa-metabox.php:297
+#: inc/admin/class-wa-metabox.php:502
+msgid "Choose an image"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:284
+msgid "Background color"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:292
+msgid "Background image"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:309
+msgid "Background repeat"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:333
+msgid "Background position"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:346
+msgid "cover (resize)"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:347 inc/admin/class-wa-metabox.php:432
+msgid "normal"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:348
+msgid "responsive (hard resize)"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:353
+msgid "Background size"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:364
+msgid "Parallax"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:382
+msgid "Font color"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:392
+msgid "Font Family"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:394
+msgid "default"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:405
+msgid "Font weight"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:407
+msgid ""
+"For example: 400 is normal, 700 is bold.The available font weights depend "
+"on the font.<br>Leave empty to use the theme default style"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:413 inc/admin/class-wa-metabox.php:431
+msgid "auto"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:414
+msgid "none"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:415
+msgid "uppercase"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:419
+msgid "Font transform"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:425
+msgid "\"auto\" is the default style in the theme options"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:433
+msgid "italic"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:437
+msgid "Font style"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:443
+msgid "\"auto\" is the default style defined in the theme options"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:450
+msgid "Font letter spacing (omit px)"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:452
+msgid "Leave empty to use the style defined in the theme options"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:474
+msgid "mp4 URL"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:482
+msgid "webm URL"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:490
+msgid "ogv URL"
+msgstr ""
+
+#: inc/admin/class-wa-metabox.php:498
+msgid "Video Image Fallback"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:41
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:69
+msgid "Albums Page"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:71
+msgid "Max number of column"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:108
+msgid "Select a page..."
+msgstr ""
+
+#: inc/admin/class-wa-options.php:127 inc/admin/class-wa-options.php:142
+msgid "Number of column on desktop screen"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:153
+msgid "Albums Settings"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:156
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/class-wa-options.php:162
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:175
+msgid "Albums Shortcode"
+msgstr ""
+
+#: inc/admin/class-wa-options.php:176
+msgid ""
+"To display your last albums in your post or page you can use the following "
+"shortcode."
+msgstr ""
+
+#: inc/admin/class-wa-options.php:178
+msgid "Additionally, you can add a count and/or a category attribute."
+msgstr ""
+
+#: inc/admin/class-wa-options.php:181
+msgid "You can also add a column count attribute."
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:17
+msgid "Album option"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:21
+msgid "Cover Image Size"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:25
+msgid "Standard"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:26
+msgid "Small Square"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:27
+msgid "Portrait"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:28
+msgid "Landscape"
+msgstr ""
+
+#: inc/admin/wa-metaboxes.php:29
+msgid "Big Square"
+msgstr ""
+
+#: inc/frontend/wa-functions.php:136
+msgid "No photo uploaded yet."
+msgstr ""
+
+#: inc/wa-register-post-type.php:17 inc/wa-register-post-type.php:29
+msgid "Galleries"
+msgstr ""
+
+#: inc/wa-register-post-type.php:18
+msgid "Gallery"
+msgstr ""
+
+#: inc/wa-register-post-type.php:19
+msgid "Add New"
+msgstr ""
+
+#: inc/wa-register-post-type.php:20
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/wa-register-post-type.php:21
+msgid "All Galleries"
+msgstr ""
+
+#: inc/wa-register-post-type.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/wa-register-post-type.php:23
+msgid "New Gallery"
+msgstr ""
+
+#: inc/wa-register-post-type.php:24 templates/content-album.php:35
+msgid "View Gallery"
+msgstr ""
+
+#: inc/wa-register-post-type.php:25
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/wa-register-post-type.php:26
+msgid "No Galleries found"
+msgstr ""
+
+#: inc/wa-register-post-type.php:27
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: inc/wa-register-post-type.php:47
+msgid "Present your albums"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:17
+msgid "Galleries Categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:18
+msgid "Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:19
+msgid "Search Galleries Categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:20
+msgid "Popular Galleries Categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:21
+msgid "All Galleries Categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:22
+msgid "Parent Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:23
+msgid "Parent Galleries Category:"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:24
+msgid "Edit Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:25
+msgid "Update Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:26
+msgid "Add New Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:27
+msgid "New Galleries Category"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:28
+msgid "Separate gallery categories with commas"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:29
+msgid "Add or remove gallery categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:30
+msgid "Choose from the most used gallery categories"
+msgstr ""
+
+#: inc/wa-register-taxonomy.php:31
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/class-wa-widget-last-photos.php:26
+msgid "Display your last photos"
+msgstr ""
+
+#: inc/widgets/class-wa-widget-last-photos.php:29
+#: inc/widgets/class-wa-widget-last-photos.php:87
+msgid "Last Photos"
+msgstr ""
+
+#: inc/widgets/class-wa-widget-last-photos.php:94
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/class-wa-widget-last-photos.php:98
+msgid "Optional Text"
+msgstr ""
+
+#: inc/widgets/class-wa-widget-last-photos.php:102
+msgid "Count"
+msgstr ""
+
+#: templates/filter.php:27
+msgid "All"
+msgstr ""
+
+#: templates/loop/no-album-found.php:12
+msgid "Nothing found"
+msgstr ""
+
+#: wolf-albums.php:104 wolf-albums.php:111
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: wolf-albums.php:140
+msgid ""
+"%1$s needs at least PHP %2$s installed on your server. You have version "
+"%3$s currently installed. Please contact your hosting service provider if "
+"you're not able to update PHP by yourself."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf Albums"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wolfthemes.com/plugin/wolf-albums/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A photo album post type for your site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wolfthemes.com"
+msgstr ""
+
+#: inc/frontend/wa-functions.php:163
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/frontend/wa-functions.php:164
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""

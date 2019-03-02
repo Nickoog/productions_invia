@@ -1,0 +1,1 @@
+[29-Sep-2018 15:20:12 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/invia503321/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

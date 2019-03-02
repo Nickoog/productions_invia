@@ -1,0 +1,3738 @@
+# Copyright (C) 2016 WolfThemes
+# This file is distributed under the same license as the Wolf Page Builder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Page Builder 1.0.0b\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-page-"
+"builder\n"
+"POT-Creation-Date: 2016-11-07 11:42+0100\n"
+"PO-Revision-Date: 2016-11-07 11:42+0100\n"
+"Last-Translator: WolfThemes <help@wolfthemes.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: dev\n"
+"X-Poedit-SearchPathExcluded-2: html\n"
+"X-Poedit-SearchPathExcluded-3: pack\n"
+"X-Poedit-SearchPathExcluded-4: scss\n"
+"X-Poedit-SearchPathExcluded-5: scss-admin\n"
+
+#: inc/admin/class-wpb-about-page.php:63
+msgid "About"
+msgstr "À propos"
+
+#: inc/admin/class-wpb-about-page.php:103
+#, php-format
+msgid "Welcome to %s %s"
+msgstr "Bienvenue chez %s %s"
+
+#: inc/admin/class-wpb-about-page.php:108
+msgid "Thank you for updating to the latest version!"
+msgstr "Merci d'avoir fait la mise à jour vers la dernière version"
+
+#: inc/admin/class-wpb-about-page.php:110
+#, php-format
+msgid "Thanks for installing %s!"
+msgstr "Merci d'avoir installé %s!"
+
+#: inc/admin/class-wpb-about-page.php:113
+#, php-format
+msgid "%s We hope you will enjoy using it."
+msgstr "%s Nous espérons que vous appréciez son utilisation."
+
+#: inc/admin/class-wpb-about-page.php:115
+#, php-format
+msgid ""
+"%s <br> %s is now more stable and secure than ever.<br>We hope you enjoy "
+"using it."
+msgstr ""
+"%s <br> %s est maintenant plus stable et plus sûr que jamais. <br> Nous "
+"espérons que vous apprécierez l'utiliser."
+
+#: inc/admin/class-wpb-about-page.php:117
+#, php-format
+msgid "%s We hope you enjoy using it."
+msgstr "%s Nous espérons que vous appréciez son utilisation."
+
+#: inc/admin/class-wpb-about-page.php:151
+#, php-format
+msgid "Build your website easily with %s"
+msgstr "Construisez votre site Internet facilement avec %s"
+
+#: inc/admin/class-wpb-about-page.php:154
+msgid "Start now"
+msgstr "Commencez maintenant."
+
+#: inc/admin/class-wpb-about-page.php:155 inc/admin/wpb-settings.php:49
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/admin/class-wpb-about-page.php:198
+msgid "Changelog"
+msgstr "Changelog"
+
+#: inc/admin/class-wpb-about-page.php:210
+msgid "Details"
+msgstr "Détails"
+
+#: inc/admin/class-wpb-about-page.php:211
+msgid "Requires"
+msgstr "Requiert"
+
+#: inc/admin/class-wpb-about-page.php:212
+msgid "Tested"
+msgstr "Testé"
+
+#: inc/admin/class-wpb-about-page.php:213
+msgid "Last update"
+msgstr "Dernière mise à jour"
+
+#: inc/admin/class-wpb-admin.php:67
+msgid "Donate"
+msgstr "Faire un don"
+
+#: inc/admin/class-wpb-admin.php:175
+msgid "This will remove the section and its content."
+msgstr "Cela supprimera la section et son contenu."
+
+#: inc/admin/class-wpb-admin.php:176
+msgid "This will remove the row and its content."
+msgstr "Cela supprimera la rangée et son contenu."
+
+#: inc/admin/class-wpb-admin.php:177
+msgid "This will remove the element and its content."
+msgstr "Cela supprimera l'élément et son contenu."
+
+#: inc/admin/class-wpb-admin.php:178
+msgid "Choose an element"
+msgstr "Choisissez un élément"
+
+#: inc/admin/class-wpb-admin.php:179
+msgid "Choose your section style"
+msgstr "Choisissez votre style de section"
+
+#: inc/admin/class-wpb-admin.php:180
+msgid ""
+"There must be at least one element in this container. Remove the element "
+"container to remove the whole thing."
+msgstr ""
+"Il doit y avoir au moins un élément dans ce conteneur. Retirer le conteneur "
+"de l'élément pour enlever le tout."
+
+#: inc/admin/class-wpb-admin.php:181
+msgid ""
+"There must be at least one row in this section. Remove the entire section to "
+"remove the whole thing."
+msgstr ""
+"Il doit y avoir au moins une rangée dans cette section. Retirer toute la "
+"section pour enlever le tout."
+
+#: inc/admin/class-wpb-admin.php:182 inc/admin/wpb-element-fields.php:424
+msgid "Select images"
+msgstr "Sélectionner des images"
+
+#: inc/admin/class-wpb-admin.php:183
+msgid "Select an image"
+msgstr "Sélectionner une image"
+
+#: inc/admin/class-wpb-admin.php:184
+msgid "Select a file"
+msgstr "Sélectionnez un fichier"
+
+#: inc/admin/class-wpb-admin.php:185
+msgid "Select a video"
+msgstr "Sélectionner une vidéo"
+
+#: inc/admin/class-wpb-admin.php:186
+msgid "This will remove the entire image set"
+msgstr "Cela effacera toutes les images"
+
+#: inc/admin/class-wpb-admin.php:188
+msgid "Standard mode"
+msgstr "Mode standard"
+
+#: inc/admin/class-wpb-admin.php:189
+msgid "Page builder mode"
+msgstr "Page Builder"
+
+#: inc/admin/class-wpb-admin.php:190
+msgid "Import"
+msgstr "Importer"
+
+#: inc/admin/class-wpb-admin.php:191
+msgid "Export"
+msgstr "Exporter"
+
+#: inc/admin/class-wpb-admin.php:192
+msgid "The page is empty"
+msgstr "La page est vide"
+
+#: inc/admin/class-wpb-admin.php:193
+msgid "my-template"
+msgstr "mon-modele"
+
+#: inc/admin/class-wpb-admin.php:194
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: inc/admin/class-wpb-admin.php:195
+msgid "Cancel"
+msgstr "Annuler"
+
+#: inc/admin/class-wpb-admin.php:230 inc/admin/class-wpb-settings.php:79
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: inc/admin/class-wpb-admin.php:279
+msgid "Please wait..."
+msgstr "Veuillez patienter….."
+
+#: inc/admin/class-wpb-admin.php:284
+msgid "Add a section at the top"
+msgstr "Ajouter une section en haut"
+
+#: inc/admin/class-wpb-admin.php:285 inc/admin/class-wpb-admin.php:298
+#: inc/admin/class-wpb-welcome-message.php:70
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/class-wpb-admin.php:288
+msgid "Refresh markup"
+msgstr "Rafraichir"
+
+#: inc/admin/class-wpb-admin.php:297
+msgid "Add a section at the bottom"
+msgstr "Ajouter une section au bas"
+
+#: inc/admin/class-wpb-admin.php:386
+#, php-format
+msgid ""
+"It seems that another page builder is installed. Please deactivate the "
+"following plugin: <a href=\"%1$s\"><strong>%2$s</strong></a>"
+msgstr ""
+"Il semble qu'un autre créateur de la page est installé. S'il vous plaît "
+"désactiver le plugin suivant: <a href=\"%1$s\"><strong>%2$s</strong></a>"
+
+#: inc/admin/class-wpb-settings.php:169 inc/admin/class-wpb-settings.php:237
+#: inc/admin/class-wpb-settings.php:267 inc/admin/wpb-element-fields.php:324
+#: inc/admin/wpb-element-fields.php:477 inc/admin/wpb-element-fields.php:618
+msgid "Choose an image"
+msgstr "Choisir une image"
+
+#: inc/admin/class-wpb-settings.php:236 inc/admin/class-wpb-settings.php:266
+#: inc/admin/wpb-element-fields.php:323 inc/admin/wpb-element-fields.php:345
+#: inc/admin/wpb-element-fields.php:361 inc/admin/wpb-element-fields.php:476
+#: inc/admin/wpb-element-fields.php:593 inc/admin/wpb-element-fields.php:617
+msgid "Clear"
+msgstr "Effacer"
+
+#: inc/admin/class-wpb-settings.php:249
+#: inc/admin/elements/call-to-action.php:124
+#: inc/admin/elements/separator.php:55 inc/admin/tinymce/popup/highlight.php:43
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/admin/class-wpb-settings.php:261
+#: inc/admin/elements/advanced-slider.php:73
+#: inc/admin/elements/advanced-slider.php:113
+#: inc/admin/elements/advanced-slider.php:119 inc/admin/elements/block.php:51
+#: inc/admin/elements/image-link.php:28 inc/admin/elements/image.php:19
+#: inc/admin/elements/image.php:28 inc/admin/elements/item-price.php:86
+#: inc/admin/elements/section-columns.php:86
+msgid "Image"
+msgstr "Image"
+
+#: inc/admin/class-wpb-settings.php:278
+msgid "Repeat"
+msgstr "Répéter"
+
+#: inc/admin/class-wpb-settings.php:304
+#: inc/admin/elements/icon-with-text.php:86
+msgid "Position"
+msgstr "Position"
+
+#: inc/admin/class-wpb-settings.php:318
+msgid "cover (resize)"
+msgstr "couvrir (redimensionner)"
+
+#: inc/admin/class-wpb-settings.php:319
+msgid "normal"
+msgstr "normale"
+
+#: inc/admin/class-wpb-settings.php:320
+msgid "responsive (hard resize)"
+msgstr "responsive (redimensionnement forcé)"
+
+#: inc/admin/class-wpb-settings.php:325
+#: inc/admin/elements/call-to-action.php:93
+#: inc/admin/elements/icon-with-text.php:101
+#: inc/admin/elements/mailchimp.php:45
+#: inc/admin/elements/social-icons-custom.php:53
+#: inc/admin/elements/social-icons.php:66 inc/admin/tinymce/popup/button.php:60
+#: inc/admin/tinymce/popup/columns.php:16
+#: inc/admin/tinymce/popup/mailchimp.php:23
+#: inc/admin/tinymce/popup/socials.php:37
+msgid "Size"
+msgstr "Taille"
+
+#: inc/admin/class-wpb-settings.php:345
+msgid "Attachment"
+msgstr "Fixation de l'arrière plan"
+
+#: inc/admin/class-wpb-settings.php:368
+msgid "Page Builder Settings"
+msgstr "Paramètres du Page Builder"
+
+#: inc/admin/class-wpb-settings.php:371
+msgid "Settings saved."
+msgstr "Réglages sauvegardés."
+
+#: inc/admin/class-wpb-settings.php:377
+msgid "Save Changes"
+msgstr "Sauvegarde des changements"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:117
+#: inc/admin/tinymce/popup/dropcap.php:18
+msgid "Dropcap"
+msgstr "Lettrine"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:118
+#: inc/admin/elements/call-to-action.php:218
+#: inc/admin/tinymce/popup/button.php:31 inc/admin/tinymce/popup/button.php:37
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:119
+msgid "Notifications"
+msgstr "Notifications"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:120
+msgid "Highlight"
+msgstr "Surligner"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:121
+msgid "Spacer"
+msgstr "Espace"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:123
+#: inc/admin/elements/fittext.php:18 inc/admin/tinymce/popup/fittext.php:18
+msgid "Headline"
+msgstr "Gros titre"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:124
+#: inc/admin/tinymce/popup/socials.php:11
+msgid "Socials"
+msgstr "Réseaux sociaux"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:125
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:126
+#: inc/admin/dialog/section.php:16 inc/admin/elements/albums.php:37
+#: inc/admin/elements/discography.php:37
+#: inc/admin/elements/images-gallery.php:56
+#: inc/admin/elements/last-posts.php:130 inc/admin/elements/portfolio.php:35
+#: inc/admin/elements/pricing-tables.php:29
+#: inc/admin/elements/videos-carousel.php:36 inc/admin/elements/videos.php:36
+#: inc/admin/elements/woocommerce-widgets.php:134
+#: inc/admin/elements/woocommerce-widgets.php:180
+#: inc/admin/elements/woocommerce-widgets.php:227
+#: inc/admin/tinymce/popup/columns.php:11
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/admin/class-wpb-tiny-mce-shortcodes.php:127
+msgid "Insert a shortcode"
+msgstr "Insérez un shortcode"
+
+#: inc/admin/class-wpb-welcome-message.php:48
+#, php-format
+msgid "%s, an Easy to Use Page Builder"
+msgstr "%s, un Page Builder facile d'utilisation"
+
+#: inc/admin/class-wpb-welcome-message.php:52
+msgid "Let's Get Started"
+msgstr "Commencer maintenant"
+
+#: inc/admin/class-wpb-welcome-message.php:54
+msgid "Start now!"
+msgstr "Démarrez !"
+
+#: inc/admin/class-wpb-welcome-message.php:58
+#, php-format
+msgid "or, <a href=\"%s\">go to the plugin settings</a>"
+msgstr "ou, <a href=\"%s\">accédez aux paramètres de plug-in</a>"
+
+#: inc/admin/class-wpb-welcome-message.php:66
+msgid "Help"
+msgstr "Aide"
+
+#: inc/admin/class-wpb-welcome-message.php:68
+msgid "How to create a section"
+msgstr "Comment créer une section"
+
+#: inc/admin/class-wpb-welcome-message.php:69
+msgid "How to load google fonts"
+msgstr "Comment charger des polices Google"
+
+#: inc/admin/class-wpb-welcome-message.php:72
+msgid "Support forum"
+msgstr "Forum d'aide"
+
+#: inc/admin/class-wpb-welcome-message.php:77
+#: inc/admin/class-wpb-welcome-message.php:98
+msgid "More plugins"
+msgstr "Plus de plugins"
+
+#: inc/admin/dialog/import.php:13
+msgid "Choose the import file (it must be a text file)"
+msgstr "Choisissez le fichier d'importation (ce doit être un fichier texte)"
+
+#: inc/admin/dialog/section.php:20
+msgid "Blocks"
+msgstr "Blocs"
+
+#: inc/admin/dialog/templates.php:13 inc/admin/wpb-admin-pointers.php:23
+#: inc/ajax/wpb-ajax-functions.php:170
+msgid "Add a section"
+msgstr "Ajouter une Section"
+
+#: inc/admin/elements/accordion.php:18
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: inc/admin/elements/accordion.php:20
+msgid "Expanding and collapsing elements"
+msgstr "Développement et réduction des éléments"
+
+#: inc/admin/elements/accordion.php:23 inc/admin/elements/accordion.php:60
+#: inc/admin/elements/accordion.php:74 inc/admin/elements/bigtext.php:21
+#: inc/admin/elements/call-to-action.php:31
+#: inc/admin/elements/call-to-action.php:195
+#: inc/admin/elements/call-to-action.php:220
+#: inc/admin/elements/contactform7.php:37 inc/admin/elements/count-down.php:21
+#: inc/admin/elements/counter.php:23 inc/admin/elements/empty-space.php:21
+#: inc/admin/elements/fittext.php:21 inc/admin/elements/icon-with-text.php:22
+#: inc/admin/elements/item-price.php:22 inc/admin/elements/last-posts.php:112
+#: inc/admin/elements/last-posts.php:125 inc/admin/elements/mailchimp.php:19
+#: inc/admin/elements/notification.php:21
+#: inc/admin/elements/pricing-tables.php:23
+#: inc/admin/elements/pricing-tables.php:44 inc/admin/elements/process.php:23
+#: inc/admin/elements/process.php:56 inc/admin/elements/raw-html.php:22
+#: inc/admin/elements/separator.php:21 inc/admin/elements/services-table.php:21
+#: inc/admin/elements/skill-bar.php:22 inc/admin/elements/tabs.php:23
+#: inc/admin/elements/tabs.php:60 inc/admin/elements/tabs.php:74
+#: inc/admin/elements/team-member.php:22
+#: inc/admin/elements/testimonials-slider.php:23
+#: inc/admin/elements/testimonials-slider.php:34
+#: inc/admin/elements/text-block.php:22 inc/admin/elements/text-block.php:26
+#: inc/admin/elements/toggle.php:21 inc/admin/elements/toggle.php:33
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/admin/elements/accordion.php:28 inc/admin/elements/column.php:23
+#: inc/admin/elements/section-blocks.php:58
+#: inc/admin/elements/section-columns.php:37 inc/admin/elements/tabs.php:28
+#: inc/admin/wpb-elements-additional-settings.php:181
+msgid "Anchor"
+msgstr "Ancre"
+
+#: inc/admin/elements/accordion.php:31 inc/admin/elements/tabs.php:31
+msgid "An unique identifier for your element."
+msgstr "Un identifiant unique pour votre élément."
+
+#: inc/admin/elements/accordion.php:36 inc/admin/elements/column.php:30
+#: inc/admin/elements/section-blocks.php:66
+#: inc/admin/elements/section-columns.php:246 inc/admin/elements/tabs.php:36
+#: inc/admin/wpb-elements-additional-settings.php:190
+msgid "Extra class"
+msgstr "Classe additionelle"
+
+#: inc/admin/elements/accordion.php:39 inc/admin/elements/tabs.php:39
+msgid "Optional additional CSS class to add to the element"
+msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#: inc/admin/elements/accordion.php:45 inc/admin/elements/column.php:38
+#: inc/admin/elements/section-blocks.php:74
+#: inc/admin/elements/section-columns.php:255 inc/admin/elements/tabs.php:45
+#: inc/admin/wpb-elements-additional-settings.php:200
+msgid "Inline style"
+msgstr "Inline style"
+
+#: inc/admin/elements/accordion.php:48 inc/admin/elements/column.php:41
+#: inc/admin/elements/section-blocks.php:77
+#: inc/admin/elements/section-columns.php:258 inc/admin/elements/tabs.php:48
+#: inc/admin/wpb-elements-additional-settings.php:203
+msgid "Additional inline CSS style"
+msgstr "Style CSS additionnels"
+
+#: inc/admin/elements/accordion.php:58
+msgid "Accordion tab"
+msgstr "Onglet d'accordéon"
+
+#: inc/admin/elements/accordion.php:67
+#: inc/admin/elements/advanced-slider.php:141
+#: inc/admin/elements/icon-with-text.php:36
+#: inc/admin/elements/item-price.php:34
+#: inc/admin/elements/pricing-tables.php:51 inc/admin/elements/process.php:73
+#: inc/admin/elements/services-table.php:50 inc/admin/elements/tabs.php:67
+#: inc/admin/elements/toggle.php:26
+#: inc/admin/elements/woocommerce-widgets.php:147
+#: inc/admin/elements/woocommerce-widgets.php:194
+#: inc/admin/elements/woocommerce-widgets.php:240
+#: inc/admin/elements/wp-widgets.php:36 inc/admin/elements/wp-widgets.php:58
+#: inc/admin/elements/wp-widgets.php:92 inc/admin/elements/wp-widgets.php:108
+#: inc/admin/elements/wp-widgets.php:134 inc/admin/elements/wp-widgets.php:150
+#: inc/admin/elements/wp-widgets.php:176 inc/admin/elements/wp-widgets.php:252
+#: inc/admin/elements/wp-widgets.php:279 inc/admin/elements/wp-widgets.php:301
+#: inc/admin/elements/youtube.php:33
+msgid "Title"
+msgstr "Titre"
+
+#: inc/admin/elements/accordion.php:69 inc/admin/elements/tabs.php:69
+#: inc/admin/elements/toggle.php:28
+msgid "My Title"
+msgstr "Mon titre"
+
+#: inc/admin/elements/accordion.php:76 inc/admin/elements/tabs.php:76
+#: inc/admin/elements/toggle.php:35
+#, php-format
+msgid "This is a text block. Click on the edit button to change this text.  %s"
+msgstr ""
+"Ceci est un bloc de texte. Cliquez sur le bouton Modifier pour modifier ce "
+"texte. %s"
+
+#: inc/admin/elements/advanced-slider.php:18
+#: inc/admin/elements/call-to-action.php:18
+msgid "flat"
+msgstr "plat"
+
+#: inc/admin/elements/advanced-slider.php:19
+#: inc/admin/elements/call-to-action.php:19
+msgid "outline"
+msgstr "contour"
+
+#: inc/admin/elements/advanced-slider.php:20
+#: inc/admin/elements/call-to-action.php:20
+msgid "outline inverted"
+msgstr "contour inversé"
+
+#: inc/admin/elements/advanced-slider.php:26
+msgid "Advanced slider"
+msgstr "Advanced slider"
+
+#: inc/admin/elements/advanced-slider.php:28
+msgid "A powerful image/video slider"
+msgstr "A slider image et vidéo"
+
+#: inc/admin/elements/advanced-slider.php:31
+#: inc/admin/elements/advanced-slider.php:51
+#: inc/admin/elements/images-slider.php:20
+#: inc/admin/elements/last-posts-big-slider.php:19
+#: inc/admin/elements/last-posts.php:99
+#: inc/admin/elements/revolution-slider.php:22
+msgid "Sliders"
+msgstr "Sliders"
+
+#: inc/admin/elements/advanced-slider.php:36
+#: inc/admin/elements/last-posts-big-slider.php:26
+msgid "Slider height"
+msgstr "Hauteur du slider"
+
+#: inc/admin/elements/advanced-slider.php:37
+#, php-format
+msgid "Enter a value in % or px. 100% for a full height slider."
+msgstr "Entrez une valeur en% ou px. 100% pour un curseur de pleine hauteur."
+
+#: inc/admin/elements/advanced-slider.php:49
+msgid "Advanced slide"
+msgstr "Advanced slide"
+
+#: inc/admin/elements/advanced-slider.php:70
+#: inc/admin/elements/advanced-slider.php:80 inc/admin/elements/block.php:60
+#: inc/admin/elements/section-columns.php:82
+#: inc/admin/elements/section-columns.php:127
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/admin/elements/advanced-slider.php:74 inc/admin/elements/block.php:52
+#: inc/admin/elements/section-columns.php:87 inc/admin/elements/video.php:18
+msgid "Video"
+msgstr "Vidéo"
+
+#: inc/admin/elements/advanced-slider.php:87 inc/admin/elements/block.php:67
+#: inc/admin/elements/section-columns.php:146
+msgid "Video background"
+msgstr "Arrière plan vidéo"
+
+#: inc/admin/elements/advanced-slider.php:98
+msgid "Show video background controls (play and mute buttons)"
+msgstr "Afficher les contrôles de l'arrière plan vidéo (bouton play et mute)"
+
+#: inc/admin/elements/advanced-slider.php:108
+msgid "Title type"
+msgstr "Type de titre"
+
+#: inc/admin/elements/advanced-slider.php:112 inc/admin/elements/bigtext.php:27
+#: inc/admin/elements/block.php:29 inc/admin/elements/call-to-action.php:199
+#: inc/admin/elements/counter.php:58 inc/admin/elements/fittext.php:27
+#: inc/admin/elements/icon-with-text.php:66
+#: inc/admin/elements/image-link.php:102 inc/admin/elements/process.php:97
+#: inc/admin/elements/testimonials-slider.php:41
+#: inc/admin/tinymce/popup/button.php:36 inc/admin/tinymce/popup/fittext.php:23
+msgid "Text"
+msgstr "Texte"
+
+#: inc/admin/elements/advanced-slider.php:129
+#: inc/admin/elements/image-link.php:35 inc/admin/elements/image.php:54
+#: inc/admin/elements/images-gallery.php:46
+#: inc/admin/elements/team-member.php:35
+msgid "Image size"
+msgstr "Taille de l'image"
+
+#: inc/admin/elements/advanced-slider.php:132
+#: inc/admin/elements/image-link.php:38 inc/admin/elements/image.php:57
+#: inc/admin/elements/images-gallery.php:49
+#: inc/admin/elements/team-member.php:38
+msgid ""
+"You can set the \"large\", \"medium\" and \"thumbnail\" sizes in the WP "
+"media settings "
+msgstr ""
+"Vous pouvez définir les tailles \"large\", \"medium\" et \"vignette\" dans "
+"les réglages média de Wordpress"
+
+#: inc/admin/elements/advanced-slider.php:143
+msgid "My Awesome Title"
+msgstr "Mon super titre"
+
+#: inc/admin/elements/advanced-slider.php:153
+msgid "Caption type"
+msgstr "Type de légende"
+
+#: inc/admin/elements/advanced-slider.php:156
+msgid "Standard text"
+msgstr "Texte standard"
+
+#: inc/admin/elements/advanced-slider.php:157
+msgid "Bigger text with semi-transparent background"
+msgstr "Texte plus grand avec arrière-plan semi-transparent"
+
+#: inc/admin/elements/advanced-slider.php:163
+msgid "Caption"
+msgstr "Légende"
+
+#: inc/admin/elements/advanced-slider.php:170
+msgid "Caption alignment"
+msgstr "Alignement de la légende"
+
+#: inc/admin/elements/advanced-slider.php:173
+#: inc/admin/elements/separator.php:46
+#: inc/admin/elements/social-icons-custom.php:32
+#: inc/admin/elements/social-icons.php:45
+msgid "Center"
+msgstr "Centre"
+
+#: inc/admin/elements/advanced-slider.php:174
+#: inc/admin/elements/icon-with-text.php:90
+#: inc/admin/elements/music-network.php:38 inc/admin/elements/separator.php:47
+#: inc/admin/elements/social-icons-custom.php:33
+#: inc/admin/elements/social-icons.php:46
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/admin/elements/advanced-slider.php:175
+#: inc/admin/elements/icon-with-text.php:92
+#: inc/admin/elements/music-network.php:39 inc/admin/elements/separator.php:48
+#: inc/admin/elements/social-icons-custom.php:34
+#: inc/admin/elements/social-icons.php:47
+msgid "Right"
+msgstr "Droite"
+
+#: inc/admin/elements/advanced-slider.php:181
+msgid "Add a first button"
+msgstr "Ajouter un premier bouton"
+
+#: inc/admin/elements/advanced-slider.php:184
+#: inc/admin/elements/advanced-slider.php:261
+#: inc/admin/elements/advanced-slider.php:272
+#: inc/admin/elements/advanced-slider.php:347
+#: inc/admin/elements/advanced-slider.php:358 inc/admin/elements/block.php:101
+#: inc/admin/elements/call-to-action.php:161
+#: inc/admin/elements/call-to-action.php:231 inc/admin/elements/counter.php:68
+#: inc/admin/elements/events.php:38 inc/admin/elements/events.php:49
+#: inc/admin/elements/icon-with-text.php:128 inc/admin/elements/image.php:38
+#: inc/admin/elements/images-gallery.php:70 inc/admin/elements/mailchimp.php:38
+#: inc/admin/elements/notification.php:54
+#: inc/admin/elements/notification.php:64
+#: inc/admin/elements/section-columns.php:99
+#: inc/admin/elements/section-columns.php:191
+#: inc/admin/elements/services-table.php:83
+#: inc/admin/elements/team-member.php:109 inc/admin/elements/tour-dates.php:38
+#: inc/admin/elements/tour-dates.php:49 inc/admin/elements/video-opener.php:30
+#: inc/admin/wpb-elements-additional-settings.php:51
+#: inc/admin/wpb-elements-additional-settings.php:61
+#: inc/admin/wpb-elements-additional-settings.php:89
+#: inc/admin/wpb-elements-additional-settings.php:99
+#: inc/admin/wpb-elements-additional-settings.php:223
+#: inc/admin/wpb-elements-additional-settings.php:251
+#: inc/admin/wpb-elements-additional-settings.php:279
+#: inc/globals/custom-colors.php:24
+msgid "No"
+msgstr "Non"
+
+#: inc/admin/elements/advanced-slider.php:185
+#: inc/admin/elements/advanced-slider.php:262
+#: inc/admin/elements/advanced-slider.php:273
+#: inc/admin/elements/advanced-slider.php:348
+#: inc/admin/elements/advanced-slider.php:359 inc/admin/elements/block.php:102
+#: inc/admin/elements/call-to-action.php:162
+#: inc/admin/elements/call-to-action.php:232 inc/admin/elements/counter.php:69
+#: inc/admin/elements/events.php:39 inc/admin/elements/events.php:50
+#: inc/admin/elements/icon-with-text.php:129 inc/admin/elements/image.php:39
+#: inc/admin/elements/images-gallery.php:69 inc/admin/elements/mailchimp.php:37
+#: inc/admin/elements/notification.php:53
+#: inc/admin/elements/notification.php:65
+#: inc/admin/elements/section-columns.php:100
+#: inc/admin/elements/section-columns.php:192
+#: inc/admin/elements/services-table.php:84
+#: inc/admin/elements/team-member.php:110 inc/admin/elements/tour-dates.php:39
+#: inc/admin/elements/tour-dates.php:50 inc/admin/elements/video-opener.php:31
+#: inc/admin/wpb-elements-additional-settings.php:50
+#: inc/admin/wpb-elements-additional-settings.php:60
+#: inc/admin/wpb-elements-additional-settings.php:88
+#: inc/admin/wpb-elements-additional-settings.php:98
+#: inc/admin/wpb-elements-additional-settings.php:222
+#: inc/admin/wpb-elements-additional-settings.php:250
+#: inc/admin/wpb-elements-additional-settings.php:278
+#: inc/ajax/wpb-ajax-functions.php:437 inc/globals/custom-colors.php:25
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/admin/elements/advanced-slider.php:192
+msgid "Button 1 text"
+msgstr "Texte du bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:194
+#: inc/admin/elements/advanced-slider.php:282
+#: inc/admin/elements/call-to-action.php:70
+msgid "My button"
+msgstr "Mon bouton"
+
+#: inc/admin/elements/advanced-slider.php:201
+msgid "Button 1 tagline"
+msgstr "Sous-titre du bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:203
+#: inc/admin/elements/advanced-slider.php:290
+#: inc/admin/elements/call-to-action.php:78
+msgid "Optional additional text"
+msgstr "Texte complémentaire facultatif"
+
+#: inc/admin/elements/advanced-slider.php:211
+msgid "Button 1 type"
+msgstr "Type de bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:220
+msgid "Button 1 shape"
+msgstr "Forme du Bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:223
+#: inc/admin/elements/advanced-slider.php:309 inc/admin/elements/block.php:50
+#: inc/admin/elements/call-to-action.php:116 inc/admin/elements/image.php:79
+#: inc/admin/elements/images-gallery.php:81
+#: inc/admin/elements/section-columns.php:85
+#: inc/admin/wpb-element-fields.php:201
+msgid "Default"
+msgstr "Défaut"
+
+#: inc/admin/elements/advanced-slider.php:224
+#: inc/admin/elements/advanced-slider.php:310
+#: inc/admin/elements/call-to-action.php:117
+#: inc/admin/elements/icon-with-text.php:78
+#: inc/admin/elements/section-columns.php:120
+#: inc/admin/elements/social-icons-custom.php:46
+#: inc/admin/elements/social-icons.php:59 inc/admin/tinymce/popup/button.php:19
+#: inc/admin/tinymce/popup/socials.php:31 inc/globals/image-sizes.php:19
+msgid "Square"
+msgstr "Carré"
+
+#: inc/admin/elements/advanced-slider.php:225
+#: inc/admin/elements/advanced-slider.php:311
+#: inc/admin/elements/call-to-action.php:118
+#: inc/admin/elements/section-columns.php:119
+#: inc/admin/tinymce/popup/button.php:20
+msgid "Round"
+msgstr "Arrondi"
+
+#: inc/admin/elements/advanced-slider.php:233
+msgid "Button 1 color"
+msgstr "Couleur Bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:241
+msgid "Button 1 color on hover"
+msgstr "Couleur Bouton 1 au survol"
+
+#: inc/admin/elements/advanced-slider.php:249
+msgid "Button 1 link"
+msgstr "Lien du bouton 1"
+
+#: inc/admin/elements/advanced-slider.php:258
+msgid "Open Button 1 link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: inc/admin/elements/advanced-slider.php:269
+msgid "Add a second button"
+msgstr "Ajouter un second bouton"
+
+#: inc/admin/elements/advanced-slider.php:280
+msgid "Button 2 text"
+msgstr "Texte du bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:288
+msgid "Button 2 tagline"
+msgstr "Sous-titre du bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:297
+msgid "Button 2 type"
+msgstr "Type de bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:306
+msgid "Button 2 shape"
+msgstr "Forme du Bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:319
+msgid "Button 2 color"
+msgstr "Couleur Bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:327
+msgid "Button 2 color on hover"
+msgstr "Couleur du Bouton 2 au survol"
+
+#: inc/admin/elements/advanced-slider.php:335
+msgid "Button 2 link"
+msgstr "Lien du bouton 2"
+
+#: inc/admin/elements/advanced-slider.php:344
+msgid "Open Button 2 link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: inc/admin/elements/advanced-slider.php:355 inc/admin/elements/block.php:98
+#: inc/admin/elements/section-columns.php:188
+msgid "Add overlay"
+msgstr "Ajouter un calque superposé"
+
+#: inc/admin/elements/advanced-slider.php:365 inc/admin/elements/block.php:108
+#: inc/admin/elements/image-link.php:146
+#: inc/admin/elements/section-columns.php:213
+msgid "Overlay color"
+msgstr "Couleur du calque superposé"
+
+#: inc/admin/elements/advanced-slider.php:373 inc/admin/elements/block.php:116
+#: inc/admin/elements/section-columns.php:221
+msgid "Overlay pattern"
+msgstr "Motif du calque superposé"
+
+#: inc/admin/elements/advanced-slider.php:381 inc/admin/elements/block.php:124
+#: inc/admin/elements/image-link.php:153
+#: inc/admin/elements/section-columns.php:229
+msgid "Overlay opacity in percent"
+msgstr "Opacité du calque (en % )"
+
+#: inc/admin/elements/albums.php:19
+msgid "Albums"
+msgstr "Albums"
+
+#: inc/admin/elements/albums.php:20
+msgid "Showcase your photos sorted by albums"
+msgstr "Mettre en valeur vos photos triés selon les albums"
+
+#: inc/admin/elements/albums.php:23 inc/admin/elements/albums.php:60
+#: inc/admin/elements/image-link.php:22 inc/admin/elements/image.php:22
+#: inc/admin/elements/images-gallery.php:20 inc/admin/elements/instagram.php:22
+#: inc/admin/elements/map.php:22 inc/admin/elements/oembed-gist.php:22
+#: inc/admin/elements/portfolio.php:21 inc/admin/elements/video-carousel.php:22
+#: inc/admin/elements/video-opener.php:22 inc/admin/elements/video.php:22
+#: inc/admin/elements/videos-carousel.php:22 inc/admin/elements/videos.php:22
+#: inc/admin/elements/youtube.php:21
+msgid "Medias"
+msgstr "Médias"
+
+#: inc/admin/elements/albums.php:29 inc/admin/elements/albums.php:66
+#: inc/admin/elements/discography.php:29 inc/admin/elements/dribbble.php:35
+#: inc/admin/elements/events.php:27
+#: inc/admin/elements/last-posts-big-slider.php:51
+#: inc/admin/elements/last-posts.php:19 inc/admin/elements/portfolio.php:27
+#: inc/admin/elements/tour-dates.php:27 inc/admin/elements/tour-dates.php:82
+#: inc/admin/elements/twitter.php:49 inc/admin/elements/videos-carousel.php:28
+#: inc/admin/elements/videos.php:28 inc/admin/elements/wp-widgets.php:258
+#: inc/admin/elements/wp-widgets.php:285
+msgid "Count"
+msgstr "Nombre"
+
+#: inc/admin/elements/albums.php:45
+#: inc/admin/elements/last-posts-big-slider.php:60
+#: inc/admin/elements/last-posts.php:44 inc/admin/elements/portfolio.php:46
+#: inc/admin/elements/videos-carousel.php:44 inc/admin/elements/videos.php:44
+#: inc/admin/elements/woocommerce-widgets.php:121
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/admin/elements/albums.php:47 inc/admin/elements/discography.php:47
+#: inc/admin/elements/discography.php:55 inc/admin/elements/discography.php:76
+#: inc/admin/elements/discography.php:84
+#: inc/admin/elements/last-posts-big-slider.php:62
+#: inc/admin/elements/last-posts.php:46 inc/admin/elements/portfolio.php:48
+#: inc/admin/elements/videos-carousel.php:46 inc/admin/elements/videos.php:46
+msgid ""
+"Include only one or several categories. Paste category slug(s) separated by "
+"a comma"
+msgstr ""
+"Inclure une ou plusieurs catégories. Coller le(s) slug(s) des catégories "
+"séparées par une virgule"
+
+#: inc/admin/elements/albums.php:57
+msgid "Photos widget (last photos)"
+msgstr "Photos Widget (dernières photos)"
+
+#: inc/admin/elements/albums.php:58
+msgid "Display the last photos uploaded in your albums"
+msgstr "Affichez vos dernières photos ajoutées"
+
+#: inc/admin/elements/bandsintown.php:19
+msgid "Display your Bandsintown event list"
+msgstr "Afficher votre liste d’événement Bandsintown"
+
+#: inc/admin/elements/bandsintown.php:22 inc/admin/elements/discography.php:22
+#: inc/admin/elements/discography.php:67 inc/admin/elements/events.php:21
+#: inc/admin/elements/jplayer.php:29 inc/admin/elements/jplayer.php:52
+#: inc/admin/elements/music-network.php:20 inc/admin/elements/playlist.php:36
+#: inc/admin/elements/soundcloud.php:22
+msgid "Music"
+msgstr "Musique"
+
+#: inc/admin/elements/bandsintown.php:27
+msgid "Artist"
+msgstr "Artiste"
+
+#: inc/admin/elements/bigtext.php:18
+msgid "Big text"
+msgstr "Gros Texte"
+
+#: inc/admin/elements/bigtext.php:19
+msgid "A big line of text that will take the full width of its container"
+msgstr ""
+"Une grande ligne de texte qui prendra toute la largeur de son conteneur"
+
+#: inc/admin/elements/bigtext.php:29
+msgid "My mega big text"
+msgstr "Mon mega gros texte"
+
+#: inc/admin/elements/bigtext.php:31
+msgid "You can add several lines of text."
+msgstr "Vous pouvez ajouter plusieurs lignes de texte."
+
+#: inc/admin/elements/bigtext.php:36 inc/admin/elements/fittext.php:43
+#: inc/admin/elements/image-link.php:139 inc/admin/elements/skill-bar.php:48
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: inc/admin/elements/bigtext.php:43 inc/admin/elements/fittext.php:50
+msgid "Font weight"
+msgstr "Epaisseur de la police"
+
+#: inc/admin/elements/bigtext.php:51 inc/admin/elements/fittext.php:58
+msgid "Text transform"
+msgstr "Transformation du texte"
+
+#: inc/admin/elements/bigtext.php:54 inc/admin/elements/fittext.php:61
+#: inc/admin/tinymce/popup/fittext.php:51
+msgid "uppercase"
+msgstr "majuscule"
+
+#: inc/admin/elements/bigtext.php:55 inc/admin/elements/fittext.php:62
+#: inc/admin/elements/image-link.php:83 inc/admin/elements/image-link.php:94
+#: inc/admin/tinymce/popup/fittext.php:52
+msgid "none"
+msgstr "néant"
+
+#: inc/admin/elements/bigtext.php:62 inc/admin/elements/fittext.php:76
+msgid "Font"
+msgstr "Police"
+
+#: inc/admin/elements/bigtext.php:69 inc/admin/elements/fittext.php:83
+#: inc/admin/elements/image-link.php:123 inc/admin/elements/skill-bar.php:55
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/admin/elements/bigtext.php:83 inc/admin/elements/call-to-action.php:136
+#: inc/admin/elements/fittext.php:97 inc/admin/elements/icon-with-text.php:142
+#: inc/admin/elements/image-link.php:160 inc/admin/elements/image.php:98
+#: inc/admin/elements/testimonials-slider.php:62
+#: inc/admin/tinymce/popup/button.php:42
+msgid "Link"
+msgstr "Liens"
+
+#: inc/admin/elements/bigtext.php:91 inc/admin/elements/call-to-action.php:144
+#: inc/admin/elements/fittext.php:105 inc/admin/elements/icon-with-text.php:149
+#: inc/admin/elements/image-link.php:168 inc/admin/elements/image.php:128
+msgid "Open link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: inc/admin/elements/block.php:18
+msgid "Block"
+msgstr "Bloc"
+
+#: inc/admin/elements/block.php:26 inc/admin/elements/row.php:22
+msgid "Content type"
+msgstr "Type du contenu"
+
+#: inc/admin/elements/block.php:30
+msgid "Media (no padding)"
+msgstr "Médias (sans marge intérieur)"
+
+#: inc/admin/elements/block.php:37
+msgid "Skin color"
+msgstr "Style de couleur"
+
+#: inc/admin/elements/block.php:40 inc/admin/elements/section-columns.php:48
+msgid "Light"
+msgstr "Claire"
+
+#: inc/admin/elements/block.php:41 inc/admin/elements/section-columns.php:49
+msgid "Dark"
+msgstr "Foncé"
+
+#: inc/admin/elements/block.php:47
+msgid "Background type"
+msgstr "Type d'arrière plan"
+
+#: inc/admin/elements/block.php:53 inc/admin/elements/section-columns.php:88
+msgid "Slideshow"
+msgstr "Diaporama"
+
+#: inc/admin/elements/block.php:54 inc/admin/elements/section-columns.php:89
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/admin/elements/block.php:77 inc/admin/elements/section-columns.php:166
+msgid "Slideshow images"
+msgstr "Diaporamas Images"
+
+#: inc/admin/elements/block.php:87 inc/admin/elements/section-columns.php:176
+msgid "Slideshow speed (in ms)"
+msgstr "Vitesse du diaporama en ms"
+
+#: inc/admin/elements/call-to-action.php:26
+msgid "Button(s) container"
+msgstr "Conteneur de boutons"
+
+#: inc/admin/elements/call-to-action.php:28
+msgid "A simple button or a set of buttons"
+msgstr "Un simple bouton ou un ensemble de boutons"
+
+#: inc/admin/elements/call-to-action.php:36 inc/admin/elements/mailchimp.php:56
+#: inc/admin/elements/music-network.php:34
+#: inc/admin/elements/social-icons-custom.php:29
+#: inc/admin/elements/social-icons.php:42
+msgid "Alignment"
+msgstr "Alignement"
+
+#: inc/admin/elements/call-to-action.php:39
+#: inc/admin/elements/image-link.php:47 inc/admin/elements/image-link.php:59
+#: inc/admin/elements/image.php:66 inc/admin/elements/mailchimp.php:59
+#: inc/admin/elements/team-member.php:79 inc/admin/elements/video-opener.php:48
+msgid "center"
+msgstr "centre"
+
+#: inc/admin/elements/call-to-action.php:40
+#: inc/admin/elements/image-link.php:48 inc/admin/elements/image-link.php:60
+#: inc/admin/elements/image.php:67 inc/admin/elements/mailchimp.php:60
+#: inc/admin/elements/team-member.php:80 inc/admin/elements/video-opener.php:49
+msgid "left"
+msgstr "gauche"
+
+#: inc/admin/elements/call-to-action.php:41
+#: inc/admin/elements/image-link.php:49 inc/admin/elements/image-link.php:61
+#: inc/admin/elements/image.php:68 inc/admin/elements/mailchimp.php:61
+#: inc/admin/elements/team-member.php:81 inc/admin/elements/video-opener.php:50
+msgid "right"
+msgstr "droite"
+
+#: inc/admin/elements/call-to-action.php:48 inc/admin/elements/process.php:35
+#: inc/admin/elements/row.php:35 inc/admin/elements/separator.php:71
+msgid "Margin top"
+msgstr "Marge du haut"
+
+#: inc/admin/elements/call-to-action.php:56 inc/admin/elements/process.php:43
+#: inc/admin/elements/row.php:44
+msgid "Margin bottom"
+msgstr "Marge du bas"
+
+#: inc/admin/elements/call-to-action.php:68
+#: inc/admin/elements/pricing-tables.php:137
+msgid "Button text"
+msgstr "Texte du Bouton"
+
+#: inc/admin/elements/call-to-action.php:76
+msgid "Button tagline"
+msgstr "Sous-titre"
+
+#: inc/admin/elements/call-to-action.php:85
+msgid "Use theme button style"
+msgstr "Utiliser le style de bouton du thème"
+
+#: inc/admin/elements/call-to-action.php:87
+msgid ""
+"Check this option to use the theme's buttons style. It will overwrite the "
+"styling settings below."
+msgstr ""
+"Cochez cette option pour utiliser le style de bouton du thème. Il écrasera "
+"les paramètres de style ci-dessous."
+
+#: inc/admin/elements/call-to-action.php:96
+#: inc/admin/elements/icon-with-text.php:104
+#: inc/admin/elements/social-icons-custom.php:56
+#: inc/admin/elements/social-icons.php:69 inc/admin/tinymce/popup/button.php:24
+#: inc/admin/tinymce/popup/socials.php:41 inc/globals/image-sizes.php:23
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/admin/elements/call-to-action.php:97
+#: inc/admin/elements/icon-with-text.php:105
+#: inc/admin/elements/social-icons-custom.php:57
+#: inc/admin/elements/social-icons.php:70 inc/admin/tinymce/popup/button.php:25
+#: inc/admin/tinymce/popup/socials.php:40
+msgid "Small"
+msgstr "Petit"
+
+#: inc/admin/elements/call-to-action.php:98
+#: inc/admin/elements/icon-with-text.php:106
+#: inc/admin/elements/mailchimp.php:49
+#: inc/admin/elements/social-icons-custom.php:58
+#: inc/admin/elements/social-icons.php:71 inc/admin/tinymce/popup/button.php:26
+#: inc/admin/tinymce/popup/mailchimp.php:27
+#: inc/admin/tinymce/popup/socials.php:42 inc/globals/image-sizes.php:22
+msgid "Large"
+msgstr "Large"
+
+#: inc/admin/elements/call-to-action.php:99
+msgid "Very large"
+msgstr "Très grande"
+
+#: inc/admin/elements/call-to-action.php:106
+#: inc/admin/elements/icon-with-text.php:73
+#: inc/admin/elements/notification.php:28
+#: inc/admin/elements/social-icons-custom.php:41
+#: inc/admin/elements/social-icons.php:54 inc/admin/elements/twitter.php:38
+#: inc/admin/tinymce/popup/alert.php:22 inc/admin/tinymce/popup/button.php:67
+#: inc/admin/tinymce/popup/socials.php:26
+msgid "Type"
+msgstr "Type"
+
+#: inc/admin/elements/call-to-action.php:113
+msgid "Shape"
+msgstr "Forme"
+
+#: inc/admin/elements/call-to-action.php:130
+msgid "Color on hover"
+msgstr "Couleur au survol"
+
+#: inc/admin/elements/call-to-action.php:150
+msgid "Smooth scroll"
+msgstr "Défilement doux"
+
+#: inc/admin/elements/call-to-action.php:152
+msgid "Check this option if your link is an anchor (eg: #my-section)"
+msgstr ""
+"Cochez cette option si votre lien est un point d’ancrage (par exemple : #ma-"
+"section)"
+
+#: inc/admin/elements/call-to-action.php:158 inc/admin/elements/counter.php:65
+#: inc/admin/elements/services-table.php:80
+msgid "Add icon"
+msgstr "Ajouter un icône"
+
+#: inc/admin/elements/call-to-action.php:169 inc/admin/elements/counter.php:76
+#: inc/admin/elements/icon-with-text.php:27 inc/admin/elements/process.php:64
+#: inc/admin/elements/services-table.php:90
+#: inc/admin/tinymce/popup/button.php:95
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/admin/elements/call-to-action.php:178
+#: inc/admin/tinymce/popup/button.php:102
+msgid "Icon position"
+msgstr "Position de l'îcone"
+
+#: inc/admin/elements/call-to-action.php:181
+msgid "Before"
+msgstr "Avant"
+
+#: inc/admin/elements/call-to-action.php:182
+msgid "After"
+msgstr "Après"
+
+#: inc/admin/elements/call-to-action.php:191
+msgid "Call to action"
+msgstr "Appel à Action"
+
+#: inc/admin/elements/call-to-action.php:194
+msgid "Provoke an immediate response"
+msgstr "Provoquer une réponse immédiate"
+
+#: inc/admin/elements/call-to-action.php:201
+msgid "My call to action text"
+msgstr "Texte d'appel à l'action"
+
+#: inc/admin/elements/call-to-action.php:206
+#: inc/admin/elements/image-link.php:109
+#: inc/admin/elements/pricing-tables.php:74
+#: inc/admin/tinymce/popup/button.php:48
+msgid "Tagline"
+msgstr "Tagline"
+
+#: inc/admin/elements/call-to-action.php:208
+msgid "Optional tagline"
+msgstr "Sous-titre"
+
+#: inc/admin/elements/call-to-action.php:228
+msgid "Full width"
+msgstr "Pleine largeur"
+
+#: inc/admin/elements/column.php:17
+msgid "Column"
+msgstr "Colonne"
+
+#: inc/admin/elements/column.php:26
+msgid "An unique identifier for your column."
+msgstr "Un identifiant unique pour votre colonne."
+
+#: inc/admin/elements/column.php:33
+msgid "Optional additional CSS class to add to the column"
+msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#: inc/admin/elements/contactform7.php:34
+msgid "Contactform7"
+msgstr "Contactform7"
+
+#: inc/admin/elements/contactform7.php:35
+msgid "Add a contact form to your page"
+msgstr "Ajouter un formulaire de contact à votre page"
+
+#: inc/admin/elements/contactform7.php:42
+msgid "Contact form"
+msgstr "Formulaire de contact"
+
+#: inc/admin/elements/count-down.php:18
+msgid "Count down"
+msgstr "Compte à rebours"
+
+#: inc/admin/elements/count-down.php:19
+msgid "See the seconds tick down"
+msgstr "Voir les secondes défiler"
+
+#: inc/admin/elements/count-down.php:27
+#: inc/admin/elements/woocommerce-widgets.php:146
+#: inc/admin/elements/woocommerce-widgets.php:193
+#: inc/admin/elements/woocommerce-widgets.php:239
+msgid "Date"
+msgstr "Date"
+
+#: inc/admin/elements/count-down.php:29
+msgid "formatted like 12/24/2020 12:00:00"
+msgstr "formatée comme 24/12/2020 12:00:00"
+
+#: inc/admin/elements/count-down.php:36
+msgid "UTC Timezone offset"
+msgstr "Fuseau horaire UTC"
+
+#: inc/admin/elements/count-down.php:38
+msgid "e.g : -5 for NY"
+msgstr "ex : -1 pour Paris"
+
+#: inc/admin/elements/counter.php:20
+msgid "Counter"
+msgstr "Compteur"
+
+#: inc/admin/elements/counter.php:21
+msgid "Animated numerical data"
+msgstr "Données numériques animées"
+
+#: inc/admin/elements/counter.php:29
+#: inc/admin/elements/woocommerce-widgets.php:104
+msgid "Number"
+msgstr "Nombre"
+
+#: inc/admin/elements/counter.php:31
+msgid ""
+"It can be a shortcode that generate a number in this case paste your "
+"shortcode without the []"
+msgstr ""
+"Cela peut être un shortcode qui génère votre nombre, dans ce cas coller "
+"votre shortcode sans []"
+
+#: inc/admin/elements/counter.php:53
+msgid "Is your number generated by a shortcode?"
+msgstr "Nombre générer par un shortcode?"
+
+#: inc/admin/elements/discography.php:19
+msgid "Last releases"
+msgstr "Derniers albums"
+
+#: inc/admin/elements/discography.php:20
+msgid "Display your discography"
+msgstr "Affichez votre discographie"
+
+#: inc/admin/elements/discography.php:45 inc/admin/elements/discography.php:74
+#: inc/admin/elements/skill-bar.php:27 inc/admin/tinymce/load.php:82
+msgid "Label"
+msgstr "Label"
+
+#: inc/admin/elements/discography.php:53 inc/admin/elements/discography.php:82
+msgid "Band"
+msgstr "Groupe"
+
+#: inc/admin/elements/discography.php:64
+msgid "Last release"
+msgstr "Dernière publication"
+
+#: inc/admin/elements/discography.php:65
+msgid "Display your last release"
+msgstr "Afficher votre dernières réalisations"
+
+#: inc/admin/elements/dribbble.php:19
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: inc/admin/elements/dribbble.php:21
+msgid "Your last shots"
+msgstr "Affichez vos Dribbble Shots"
+
+#: inc/admin/elements/dribbble.php:28
+msgid "Player ID"
+msgstr "Player ID"
+
+#: inc/admin/elements/empty-space.php:18
+msgid "Empty space"
+msgstr "Espace vide"
+
+#: inc/admin/elements/empty-space.php:19
+msgid "Add visual rhythm with vertical space"
+msgstr "Ajouter du rythme visuel avec l'espace vertical"
+
+#: inc/admin/elements/empty-space.php:27
+#: inc/admin/elements/facebook-fanbox.php:36
+#: inc/admin/elements/music-network.php:27 inc/admin/elements/separator.php:35
+#: inc/admin/tinymce/popup/spacer.php:11 inc/admin/tinymce/popup/spacer.php:16
+msgid "Height"
+msgstr "Hauteur"
+
+#: inc/admin/elements/events.php:18
+msgid "Event list"
+msgstr "Liste d’événements"
+
+#: inc/admin/elements/events.php:19
+msgid "Display your event list from the Wolf Events plugin"
+msgstr "Affichez votre liste d'événements du plug-in Wolf Events"
+
+#: inc/admin/elements/events.php:28
+msgid "Leave empty to display all"
+msgstr "Laissez vide pour afficher tous"
+
+#: inc/admin/elements/events.php:35 inc/admin/elements/tour-dates.php:35
+msgid "Link to single show page"
+msgstr "Lien vers vue seule"
+
+#: inc/admin/elements/events.php:46 inc/admin/elements/tour-dates.php:46
+msgid "Display Past Shows"
+msgstr "Afficher les concerts passés"
+
+#: inc/admin/elements/events.php:57 inc/admin/elements/tour-dates.php:57
+#: inc/admin/elements/tour-dates.php:105
+msgid "Artist slug"
+msgstr "Slug de l'artiste"
+
+#: inc/admin/elements/facebook-fanbox.php:22
+msgid "Display a facebook fan box"
+msgstr "Afficher une boîte de page Facebook"
+
+#: inc/admin/elements/facebook-fanbox.php:23
+#: inc/admin/elements/facebook-like.php:21
+#: inc/admin/elements/social-icons-custom.php:23
+#: inc/admin/elements/social-icons.php:22 inc/admin/elements/tweet-this.php:22
+#: inc/admin/elements/twitter.php:24
+msgid "Social"
+msgstr "Social"
+
+#: inc/admin/elements/facebook-fanbox.php:29
+msgid "FB Page URL"
+msgstr "URL de la page"
+
+#: inc/admin/elements/facebook-fanbox.php:44
+msgid "Show posts"
+msgstr "Montrer les articles"
+
+#: inc/admin/elements/facebook-fanbox.php:52
+msgid "Show faces"
+msgstr "Montrer les visages"
+
+#: inc/admin/elements/facebook-fanbox.php:60
+msgid "Hide cover"
+msgstr "Cacher la couverture"
+
+#: inc/admin/elements/facebook-fanbox.php:68
+msgid "Small Header"
+msgstr "Petite en-tête"
+
+#: inc/admin/elements/facebook-like.php:18
+msgid "Facebook like"
+msgstr "Facebook Like Box"
+
+#: inc/admin/elements/facebook-like.php:19
+msgid "Facebook \"Like\" button"
+msgstr "Bouton « J’aime » Facebook"
+
+#: inc/admin/elements/facebook-like.php:26 inc/admin/elements/tweet-this.php:27
+msgid "Button type"
+msgstr "Type du bouton"
+
+#: inc/admin/elements/facebook-like.php:29 inc/admin/elements/tweet-this.php:30
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/admin/elements/facebook-like.php:30 inc/admin/elements/tweet-this.php:31
+msgid "Horizontal with count"
+msgstr "Horizontal avec compteur"
+
+#: inc/admin/elements/facebook-like.php:31 inc/admin/elements/tweet-this.php:32
+msgid "Vertical with count"
+msgstr "Vertical avec compteur"
+
+#: inc/admin/elements/fittext.php:19
+msgid "A big title with flexible font size"
+msgstr "Un grand titre avec taille de la police flexible"
+
+#: inc/admin/elements/fittext.php:29
+msgid "My Headline"
+msgstr "Mon gros titre"
+
+#: inc/admin/elements/fittext.php:35
+msgid "Maximum font size"
+msgstr "Taille de police maximum"
+
+#: inc/admin/elements/fittext.php:69
+msgid "Letter spacing"
+msgstr "Espacement des lettres"
+
+#: inc/admin/elements/icon-with-text.php:18
+msgid "Icon with text"
+msgstr "Icône avec texte"
+
+#: inc/admin/elements/icon-with-text.php:19
+msgid "740+ icons with additional text"
+msgstr "740 + icônes avec texte"
+
+#: inc/admin/elements/icon-with-text.php:43
+msgid "Title font size"
+msgstr "Taille de la police du titre"
+
+#: inc/admin/elements/icon-with-text.php:51
+#: inc/admin/elements/item-price.php:42
+#: inc/admin/elements/pricing-tables.php:59 inc/admin/elements/process.php:81
+#: inc/admin/elements/services-table.php:57
+#: inc/admin/elements/team-member.php:87
+msgid "Title tag"
+msgstr "Balise titre"
+
+#: inc/admin/elements/icon-with-text.php:76
+#: inc/admin/elements/icon-with-text.php:117
+#: inc/admin/elements/mailchimp.php:48
+#: inc/admin/elements/social-icons-custom.php:44
+#: inc/admin/elements/social-icons.php:57
+#: inc/admin/tinymce/popup/mailchimp.php:26
+#: inc/admin/tinymce/popup/socials.php:29
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/admin/elements/icon-with-text.php:77
+#: inc/admin/elements/social-icons-custom.php:45
+#: inc/admin/elements/social-icons.php:58
+#: inc/admin/tinymce/popup/socials.php:30
+msgid "Circle"
+msgstr "Cercle"
+
+#: inc/admin/elements/icon-with-text.php:79
+msgid "Ban"
+msgstr "Barré"
+
+#: inc/admin/elements/icon-with-text.php:89
+msgid "Top"
+msgstr "Haut"
+
+#: inc/admin/elements/icon-with-text.php:91
+msgid "Left from Title"
+msgstr "A gauche du titre"
+
+#: inc/admin/elements/icon-with-text.php:93
+msgid "Right from Title"
+msgstr "A droite du titre"
+
+#: inc/admin/elements/icon-with-text.php:107
+#: inc/admin/elements/social-icons-custom.php:59
+#: inc/admin/elements/social-icons.php:72
+#: inc/admin/tinymce/popup/socials.php:43
+msgid "Very Large"
+msgstr "Très grand"
+
+#: inc/admin/elements/icon-with-text.php:114
+msgid "Hover transition"
+msgstr "Effet de survol"
+
+#: inc/admin/elements/icon-with-text.php:118
+msgid "Fill in"
+msgstr "Remplissage"
+
+#: inc/admin/elements/icon-with-text.php:120
+msgid "Custom hover effects won't apply to icon with custom colors settings"
+msgstr ""
+"Les effets de survol ne s'appliqueront pas aux icônes avec des couleurs "
+"personnalisées"
+
+#: inc/admin/elements/icon-with-text.php:125
+msgid "Icon animation"
+msgstr "Animation de l' icône"
+
+#: inc/admin/elements/icon-with-text.php:135
+msgid "Icon animation delay"
+msgstr "Délai de l'animation de l'icône "
+
+#: inc/admin/elements/icon-with-text.php:155
+msgid "Link title as well"
+msgstr "Linker le titre également"
+
+#: inc/admin/elements/image-link.php:19
+msgid "Linked image"
+msgstr "Image-liens"
+
+#: inc/admin/elements/image-link.php:20
+msgid "A linked image with a text overlay"
+msgstr "Une image-liens avec une superposition de texte"
+
+#: inc/admin/elements/image-link.php:44 inc/admin/elements/image.php:63
+#: inc/admin/elements/video-opener.php:45
+msgid "Image alignment"
+msgstr "Alignement de l'image"
+
+#: inc/admin/elements/image-link.php:56 inc/admin/elements/team-member.php:76
+msgid "Text alignment"
+msgstr "Alignement du texte"
+
+#: inc/admin/elements/image-link.php:68 inc/admin/elements/image-link.php:91
+#: inc/admin/elements/team-member.php:65
+msgid "Image style"
+msgstr "Style d'image"
+
+#: inc/admin/elements/image-link.php:71 inc/admin/elements/team-member.php:68
+msgid "default"
+msgstr "défaut"
+
+#: inc/admin/elements/image-link.php:72
+msgid "rounded"
+msgstr "arrondie"
+
+#: inc/admin/elements/image-link.php:73 inc/admin/elements/team-member.php:70
+msgid "shadow"
+msgstr "ombre"
+
+#: inc/admin/elements/image-link.php:80
+msgid "Frame style"
+msgstr "Style de cadre"
+
+#: inc/admin/elements/image-link.php:84 inc/admin/elements/image-link.php:95
+msgid "border"
+msgstr "Bordure"
+
+#: inc/admin/elements/image-link.php:116
+msgid "Tagline as button"
+msgstr "Slogan comme bouton"
+
+#: inc/admin/elements/image.php:20
+msgid "A simple image with link options"
+msgstr "Une simple image avec options de lien"
+
+#: inc/admin/elements/image.php:35
+msgid "Add another image on hover"
+msgstr "Ajouter une autre image au survol"
+
+#: inc/admin/elements/image.php:46
+msgid "Image on hover"
+msgstr "Image au Survol"
+
+#: inc/admin/elements/image.php:75 inc/admin/elements/images-gallery.php:77
+msgid "Hover effect"
+msgstr "Effet de survol de la souris"
+
+#: inc/admin/elements/image.php:78 inc/admin/elements/images-gallery.php:80
+#: inc/admin/elements/images-slider.php:35
+#: inc/admin/elements/section-columns.php:138
+msgid "None"
+msgstr "Néant"
+
+#: inc/admin/elements/image.php:80 inc/admin/elements/images-gallery.php:82
+msgid "Black and white to colored"
+msgstr "Noir et blanc vers couleurs"
+
+#: inc/admin/elements/image.php:81 inc/admin/elements/images-gallery.php:83
+msgid "Colored to Black and white"
+msgstr "Couleurs vers noir et blanc"
+
+#: inc/admin/elements/image.php:82 inc/admin/elements/images-gallery.php:84
+msgid "Scale"
+msgstr "Zoom"
+
+#: inc/admin/elements/image.php:83 inc/admin/elements/images-gallery.php:85
+msgid "Scale + Black and white to colored"
+msgstr "Zoom + Noir et blanc vers couleur"
+
+#: inc/admin/elements/image.php:84 inc/admin/elements/images-gallery.php:86
+msgid "Scale + Colored to Black and white"
+msgstr "Zoom + Couleurs vers noir et blanc"
+
+#: inc/admin/elements/image.php:87 inc/admin/elements/images-gallery.php:89
+msgid "Note that not all browsers support the black and white effect"
+msgstr ""
+"Notez que pas tous les navigateurs prennent en charge l'effet noir et blanc"
+
+#: inc/admin/elements/image.php:92
+msgid "Display caption"
+msgstr "Afficher la légende"
+
+#: inc/admin/elements/image.php:102 inc/admin/elements/images-gallery.php:100
+msgid "Not linked"
+msgstr "Pas de lien"
+
+#: inc/admin/elements/image.php:103 inc/admin/elements/images-gallery.php:97
+msgid "Open full size image in a lightbox"
+msgstr "Ouvrez l'image dans une visionneuse"
+
+#: inc/admin/elements/image.php:104 inc/admin/elements/images-gallery.php:98
+msgid "Full size image"
+msgstr "Image pleine taille"
+
+#: inc/admin/elements/image.php:105 inc/admin/elements/images-gallery.php:99
+msgid "Attachment page"
+msgstr "Page de pièces jointes"
+
+#: inc/admin/elements/image.php:106
+msgid "Link to a custom URL"
+msgstr "Personalisé"
+
+#: inc/admin/elements/image.php:112
+msgid "URL"
+msgstr "URL"
+
+#: inc/admin/elements/image.php:120 inc/admin/tinymce/popup/button.php:81
+msgid "Scroll to anchor"
+msgstr "Scroller vers une ancre"
+
+#: inc/admin/elements/images-gallery.php:17
+msgid "Image gallery"
+msgstr "Galerie d'image"
+
+#: inc/admin/elements/images-gallery.php:18
+msgid "A set of images"
+msgstr "Sélectionner des images"
+
+#: inc/admin/elements/images-gallery.php:26
+#: inc/admin/elements/images-slider.php:25
+msgid "Images"
+msgstr "Images"
+
+#: inc/admin/elements/images-gallery.php:33
+#: inc/admin/elements/images-slider.php:32 inc/admin/elements/item-price.php:73
+#: inc/admin/elements/section-blocks-layout.php:31
+#: inc/admin/wpb-admin-functions.php:280 inc/admin/wpb-admin-functions.php:307
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/admin/elements/images-gallery.php:36
+msgid "Simple"
+msgstr "Simple"
+
+#: inc/admin/elements/images-gallery.php:37
+msgid "Mosaic"
+msgstr "Mosaïque"
+
+#: inc/admin/elements/images-gallery.php:38
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: inc/admin/elements/images-gallery.php:40
+msgid ""
+"For the mosaic gallery layout a multiple of 12 images is recommended. "
+"Uploaded images must be 960x960px minimum."
+msgstr ""
+"Pour la mise en page de la Galerie mosaïque un multiple de 12 images est "
+"recommandé. Les images téléchargées doivent être 960x960px minimum."
+
+#: inc/admin/elements/images-gallery.php:66
+#: inc/admin/wpb-elements-additional-settings.php:219
+#: inc/admin/wpb-elements-additional-settings.php:247
+#: inc/admin/wpb-elements-additional-settings.php:275
+msgid "Padding"
+msgstr "Marge interieur"
+
+#: inc/admin/elements/images-gallery.php:94
+msgid "Link type"
+msgstr "Type de lien"
+
+#: inc/admin/elements/images-slider.php:17
+msgid "Image slider"
+msgstr "Slider d'images"
+
+#: inc/admin/elements/images-slider.php:18
+msgid "An elegant image slideshow"
+msgstr "Un diaporama d'image élégant"
+
+#: inc/admin/elements/images-slider.php:36
+msgid "Desktop Screen"
+msgstr "Écran de bureau"
+
+#: inc/admin/elements/images-slider.php:37
+msgid "Laptop Screen"
+msgstr "Ecran d'ordinateur portable"
+
+#: inc/admin/elements/images-slider.php:38
+msgid "Tablet Screen"
+msgstr "Ecran de tablette"
+
+#: inc/admin/elements/images-slider.php:39
+msgid "Mobile Screen"
+msgstr "Ecran de mobile"
+
+#: inc/admin/elements/images-slider.php:41
+msgid "If you choose a custom layout your image may be cropped."
+msgstr ""
+"Si vous choisissez une présentation particulière de votre image peut être "
+"recadrée."
+
+#: inc/admin/elements/instagram.php:19
+msgid "Instagram gallery"
+msgstr "Gallerie Instagram"
+
+#: inc/admin/elements/instagram.php:21
+msgid "Your last instagram photos"
+msgstr "Vos dernières photos Instagram"
+
+#: inc/admin/elements/instagram.php:27
+msgid "Image count"
+msgstr "Nombre d'images"
+
+#: inc/admin/elements/instagram.php:28
+msgid "Note that the instagram API may limit the number of image to display"
+msgstr "Notez que l'API instagram peut limiter le nombre d’image à afficher"
+
+#: inc/admin/elements/item-price.php:19
+msgid "Item price"
+msgstr "Prix de l’article"
+
+#: inc/admin/elements/item-price.php:20
+msgid "Presentation of an item or service to sale"
+msgstr "Présentation d’un article ou d'un service"
+
+#: inc/admin/elements/item-price.php:36
+msgid "Our special"
+msgstr "Notre offre spéciale"
+
+#: inc/admin/elements/item-price.php:58
+#: inc/admin/elements/pricing-tables.php:80
+msgid "Price"
+msgstr "Prix"
+
+#: inc/admin/elements/item-price.php:66
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: inc/admin/elements/item-price.php:76
+msgid "Text only"
+msgstr "Texte uniquement"
+
+#: inc/admin/elements/item-price.php:77
+msgid "Small image"
+msgstr "Petite image"
+
+#: inc/admin/elements/item-price.php:78
+msgid "Medium image"
+msgstr "Image moyenne"
+
+#: inc/admin/elements/item-price.php:79
+msgid "Big image"
+msgstr "Grande image"
+
+#: inc/admin/elements/jplayer.php:30 inc/admin/elements/jplayer.php:53
+msgid "A playlist of songs"
+msgstr "Une playlist de chansons"
+
+#: inc/admin/elements/jplayer.php:36 inc/admin/elements/jplayer.php:59
+#: inc/admin/elements/playlist.php:33 inc/admin/elements/playlist.php:41
+msgid "Playlist"
+msgstr "Playlist"
+
+#: inc/admin/elements/jplayer.php:61 inc/admin/elements/playlist.php:28
+msgid "No playlist created yet"
+msgstr "Pas de playlist"
+
+#: inc/admin/elements/last-posts-big-slider.php:17
+msgid "Big posts slider"
+msgstr "Big Slider d'articles"
+
+#: inc/admin/elements/last-posts-big-slider.php:20
+#: inc/admin/elements/last-posts.php:98
+msgid "Display your last posts in a slider"
+msgstr "Afficher vos derniers articles dans un slider"
+
+#: inc/admin/elements/last-posts-big-slider.php:27
+#, php-format
+msgid "Enter a value in % or px"
+msgstr "Entrer une valeur en % ou px"
+
+#: inc/admin/elements/last-posts-big-slider.php:35
+#: inc/admin/elements/last-posts.php:28
+msgid "Post IDs"
+msgstr "Liste des ID de post"
+
+#: inc/admin/elements/last-posts-big-slider.php:36
+#: inc/admin/elements/last-posts.php:29
+msgid ""
+"By default, your last posts will be displayed. You can choose the posts you "
+"want to display by entering a list of IDs separated by a comma."
+msgstr ""
+"Par défaut, vos derniers messages seront affichés. Vous pouvez choisir les "
+"messages que vous souhaitez afficher en entrant une liste d'ID séparés par "
+"une virgule."
+
+#: inc/admin/elements/last-posts-big-slider.php:43
+#: inc/admin/elements/last-posts.php:36
+msgid "Exclude Post IDs"
+msgstr "Exclure les IDs d’article/page"
+
+#: inc/admin/elements/last-posts-big-slider.php:44
+#: inc/admin/elements/last-posts.php:37
+msgid ""
+"You can choose the posts you don't want to display by entering a list of IDs "
+"separated by a comma."
+msgstr ""
+"Vous pouvez choisir les posts que vous ne voulez pas afficher en entrant une "
+"liste d'ID séparés par une virgule."
+
+#: inc/admin/elements/last-posts-big-slider.php:53
+#: inc/admin/elements/last-posts.php:21
+msgid "Number of post to display"
+msgstr "Nombre de publications à afficher"
+
+#: inc/admin/elements/last-posts-big-slider.php:63
+#: inc/admin/elements/last-posts.php:47
+msgid "my-category, other-category"
+msgstr "ma-categorie, autre-categorie"
+
+#: inc/admin/elements/last-posts-big-slider.php:68
+#: inc/admin/elements/last-posts.php:52 inc/admin/elements/wp-widgets.php:160
+msgid "Tags"
+msgstr "Mots clés"
+
+#: inc/admin/elements/last-posts-big-slider.php:70
+#: inc/admin/elements/last-posts.php:54
+msgid ""
+"Include only one or several tags. Paste tag slug(s) separated by a comma"
+msgstr "Inclure un ou plusieurs tags. Entrer les tags séparés par une virgule."
+
+#: inc/admin/elements/last-posts-big-slider.php:71
+#: inc/admin/elements/last-posts.php:55
+msgid "my-tag, other-tag"
+msgstr "mon-tag, mon-autre-tag"
+
+#: inc/admin/elements/last-posts-big-slider.php:76
+#: inc/admin/elements/last-posts.php:60
+msgid "Hide category"
+msgstr "Masquer la catégorie"
+
+#: inc/admin/elements/last-posts-big-slider.php:83
+#: inc/admin/elements/last-posts.php:67
+msgid "Hide tags"
+msgstr "Masquer les tags"
+
+#: inc/admin/elements/last-posts-big-slider.php:90
+#: inc/admin/elements/last-posts.php:81
+msgid "Hide author"
+msgstr "Masquer l'auteur"
+
+#: inc/admin/elements/last-posts.php:74
+msgid "Hide thumbnail image"
+msgstr "Masquer l’image miniature"
+
+#: inc/admin/elements/last-posts.php:88
+msgid "Hide text"
+msgstr "Masquer le texte"
+
+#: inc/admin/elements/last-posts.php:96
+msgid "Posts slider"
+msgstr "Slider d'articles"
+
+#: inc/admin/elements/last-posts.php:109
+msgid "Posts preview"
+msgstr "Aperçu d'articles"
+
+#: inc/admin/elements/last-posts.php:111
+msgid "Display a sneak peak or your last posts"
+msgstr "Afficher un avant-goût ou vos derniers articles"
+
+#: inc/admin/elements/last-posts.php:122
+msgid "Posts columns"
+msgstr "Colonnes d'articles"
+
+#: inc/admin/elements/last-posts.php:124
+msgid "Display your last posts in columns"
+msgstr "Afficher vos derniers articles dans les colonnes"
+
+#: inc/admin/elements/last-posts.php:132
+msgid "Number of column to display"
+msgstr "Nombre de colonne à afficher"
+
+#: inc/admin/elements/mailchimp.php:17 inc/admin/wpb-settings.php:82
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: inc/admin/elements/mailchimp.php:20
+msgid "Newsletter subscription form"
+msgstr "Inscription newsletter"
+
+#: inc/admin/elements/mailchimp.php:24 inc/class-widget-mailchimp.php:100
+msgid "List ID"
+msgstr "Liste ID"
+
+#: inc/admin/elements/mailchimp.php:26 inc/admin/wpb-settings.php:97
+msgid ""
+"It can be found in your MailChimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+"Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom de "
+"liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#: inc/admin/elements/mailchimp.php:33
+msgid "Show background"
+msgstr "Afficher l'arrière-plan"
+
+#: inc/admin/elements/mailchimp.php:34
+msgid "You can set a background in the MailChimp plugin settings."
+msgstr ""
+"Vous pouvez définir un arrière-plan dans les paramètres du plugin MailChimp."
+
+#: inc/admin/elements/map.php:18
+msgid "Map"
+msgstr "Carte"
+
+#: inc/admin/elements/map.php:20
+msgid "Display a google map"
+msgstr "Afficher une carte google map"
+
+#: inc/admin/elements/map.php:27
+msgid "Google map embed code"
+msgstr "Code Embed pour Google Maps"
+
+#: inc/admin/elements/map.php:33
+#, php-format
+msgid ""
+"Find your map embed code on <a href=\"%1$s\" target=\"_blank\">Google Map</"
+"a>. More instructions <a href=\"%2$s\" target=\"_blank\">here</a>."
+msgstr ""
+"Trouver votre carte embed code sur <a href=\"%1$s\" target=\"_blank\">Google "
+"Map</a>. Plus d'informations <a href=\"%2$s\" target=\"_blank\">ici</a>."
+
+#: inc/admin/elements/map.php:48
+msgid "Map height"
+msgstr "Hauteur de la carte"
+
+#: inc/admin/elements/map.php:49
+msgid "in pixel"
+msgstr "en pixel"
+
+#: inc/admin/elements/music-network.php:18
+msgid "Music network"
+msgstr "Réseau de musique"
+
+#: inc/admin/elements/music-network.php:21
+msgid "Display your music social network"
+msgstr "Affichez votre réseau social de la musique"
+
+#: inc/admin/elements/music-network.php:37
+msgid "Centered"
+msgstr "Centré"
+
+#: inc/admin/elements/music-network.php:45
+#: inc/admin/elements/pricing-tables.php:177
+#: inc/admin/elements/services-table.php:107
+#: inc/admin/elements/social-icons.php:27
+#: inc/admin/tinymce/popup/socials.php:16
+msgid "Services"
+msgstr "Services"
+
+#: inc/admin/elements/notification.php:18 inc/admin/tinymce/popup/alert.php:11
+msgid "Notification"
+msgstr "Notification"
+
+#: inc/admin/elements/notification.php:19
+msgid "A message box"
+msgstr "Boîte de message"
+
+#: inc/admin/elements/notification.php:31
+msgid "Success"
+msgstr "Succès"
+
+#: inc/admin/elements/notification.php:32
+msgid "Info"
+msgstr "Info"
+
+#: inc/admin/elements/notification.php:33
+msgid "Alert"
+msgstr "Alerte"
+
+#: inc/admin/elements/notification.php:34
+msgid "Error"
+msgstr "Erreur"
+
+#: inc/admin/elements/notification.php:42 inc/admin/tinymce/popup/alert.php:16
+msgid "Message"
+msgstr "Message"
+
+#: inc/admin/elements/notification.php:44
+msgid "This is a notification message."
+msgstr "Message de notification"
+
+#: inc/admin/elements/notification.php:50
+msgid "Display icon"
+msgstr "Afficher l’icône"
+
+#: inc/admin/elements/notification.php:61
+msgid "Allow the visitor to dismiss the message"
+msgstr "Permettre au visiteur de fermer le message"
+
+#: inc/admin/elements/oembed-gist.php:19
+msgid "Gist"
+msgstr "Gist"
+
+#: inc/admin/elements/oembed-gist.php:20
+msgid "Display an embed gist"
+msgstr "Afficher un gist embed"
+
+#: inc/admin/elements/oembed-gist.php:28
+msgid "Gist URL"
+msgstr "URL de GIST"
+
+#: inc/admin/elements/playlist.php:35
+msgid "Display one of your playlist"
+msgstr "Afficher une de vos playlist"
+
+#: inc/admin/elements/playlist.php:49
+msgid "Tracklist visibility"
+msgstr "Visibilité de la Tracklist"
+
+#: inc/admin/elements/playlist.php:52
+msgid "show"
+msgstr "afficher"
+
+#: inc/admin/elements/playlist.php:53
+msgid "hide"
+msgstr "masquer"
+
+#: inc/admin/elements/portfolio.php:19
+msgid "Last works"
+msgstr "Dernier travaux"
+
+#: inc/admin/elements/pricing-tables.php:18
+msgid "Pricing tables"
+msgstr "Tableaux des tarifs"
+
+#: inc/admin/elements/pricing-tables.php:20
+msgid "Help users pick the most appropriate plan for them"
+msgstr "Aider les utilisateurs à choisir le plan le plus approprié pour eux"
+
+#: inc/admin/elements/pricing-tables.php:42
+msgid "Pricing table"
+msgstr "Table de prix"
+
+#: inc/admin/elements/pricing-tables.php:53
+msgid "Basic Plan"
+msgstr "Plan de base"
+
+#: inc/admin/elements/pricing-tables.php:76
+msgid "An optional tagline"
+msgstr "Sous-titre"
+
+#: inc/admin/elements/pricing-tables.php:87
+msgid "Currency"
+msgstr "Monnaie"
+
+#: inc/admin/elements/pricing-tables.php:90
+msgid "e.g: $ or €"
+msgstr "par exemple: $ ou €"
+
+#: inc/admin/elements/pricing-tables.php:95
+msgid "Display currency"
+msgstr "Afficher la devise"
+
+#: inc/admin/elements/pricing-tables.php:98
+#: inc/admin/tinymce/popup/button.php:106
+msgid "before"
+msgstr "avant"
+
+#: inc/admin/elements/pricing-tables.php:99
+#: inc/admin/tinymce/popup/button.php:105
+msgid "after"
+msgstr "après"
+
+#: inc/admin/elements/pricing-tables.php:104
+msgid "Offer"
+msgstr "Offre"
+
+#: inc/admin/elements/pricing-tables.php:107
+#: inc/admin/elements/pricing-tables.php:132
+#: inc/admin/elements/pricing-tables.php:161
+msgid "no"
+msgstr "non"
+
+#: inc/admin/elements/pricing-tables.php:108
+#: inc/admin/elements/pricing-tables.php:131
+#: inc/admin/elements/pricing-tables.php:162
+msgid "yes"
+msgstr "oui"
+
+#: inc/admin/elements/pricing-tables.php:114
+msgid "Offer price"
+msgstr "Prix de l'offre"
+
+#: inc/admin/elements/pricing-tables.php:121
+msgid "Price period"
+msgstr "Prix ​​fixé pour la période"
+
+#: inc/admin/elements/pricing-tables.php:123
+msgid "e.g \"monthly\" or \"per month\""
+msgstr "par exemple, « mensuel » ou \"par mois\""
+
+#: inc/admin/elements/pricing-tables.php:128
+msgid "Show button"
+msgstr "Afficher le bouton"
+
+#: inc/admin/elements/pricing-tables.php:139
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: inc/admin/elements/pricing-tables.php:145
+msgid "Button link"
+msgstr "Lien du bouton"
+
+#: inc/admin/elements/pricing-tables.php:152
+msgid "Open button link in a new window"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: inc/admin/elements/pricing-tables.php:158 inc/frontend/wpb-functions.php:429
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: inc/admin/elements/pricing-tables.php:168
+msgid "Featured text"
+msgstr "Texte de mise en avant"
+
+#: inc/admin/elements/pricing-tables.php:170
+#: inc/frontend/shortcodes/pricing-tables.php:78
+msgid "Best Choice"
+msgstr "Meilleur choix"
+
+#: inc/admin/elements/pricing-tables.php:179
+msgid "Option 1, Option 2"
+msgstr "Option 1, Option 2"
+
+#: inc/admin/elements/pricing-tables.php:180
+#: inc/admin/elements/services-table.php:110
+msgid "Enter the services separated by a comma"
+msgstr "Entrez les services séparés par une virgule"
+
+#: inc/admin/elements/process.php:18
+msgid "Process"
+msgstr "Processus"
+
+#: inc/admin/elements/process.php:20
+msgid "Your step-by-step way of working"
+msgstr "Votre méthode de travail étape par étape"
+
+#: inc/admin/elements/process.php:26
+#, fuzzy, php-format
+msgid ""
+"It is recommended to insert %1$d to %2$d process elements and use the "
+"standard width for the parent row."
+msgstr ""
+"Il est recommandé d'insérer% 1 $ d à% 2 $ éléments du processus de d et "
+"utiliser la largeur standard de la ligne mère."
+
+#: inc/admin/elements/process.php:54
+msgid "Process item"
+msgstr "Élément de processus"
+
+#: inc/admin/elements/process.php:76
+msgid "My title"
+msgstr "Mon titre"
+
+#: inc/admin/elements/process.php:99
+msgid "Optional description text"
+msgstr "Description facultative"
+
+#: inc/admin/elements/raw-html.php:18
+msgid "Raw HTML"
+msgstr "HTML brut"
+
+#: inc/admin/elements/raw-html.php:20
+msgid "Any HTML content"
+msgstr "N'importe quel contenu HTML"
+
+#: inc/admin/elements/raw-html.php:28
+msgid "Your HTML code"
+msgstr "Votre code HTML"
+
+#: inc/admin/elements/revolution-slider.php:19
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: inc/admin/elements/revolution-slider.php:20
+msgid "Display a Revolution slider"
+msgstr "Affichage d'un Revolution Slider"
+
+#: inc/admin/elements/revolution-slider.php:27
+msgid "Choose a slider"
+msgstr "Choisissez un slider :"
+
+#: inc/admin/elements/row.php:25
+#, php-format
+msgid "Standard width (%s centered)"
+msgstr "Largeur standard (%s centré)"
+
+#: inc/admin/elements/row.php:26
+#, php-format
+msgid "Small width (%s centered)"
+msgstr "Petite largeur (%s centré)"
+
+#: inc/admin/elements/row.php:27
+#, php-format
+msgid "Large width (%s centered)"
+msgstr "Grande largeur (%s centré)"
+
+#: inc/admin/elements/row.php:28
+#, php-format
+msgid "Full width (%s)"
+msgstr "Pleine largeur (%s)"
+
+#: inc/admin/elements/row.php:38
+msgid "Margin above the content"
+msgstr "Marge au-dessus du contenu"
+
+#: inc/admin/elements/row.php:47
+msgid "Margin below the content"
+msgstr "Marge sous lu contenu"
+
+#: inc/admin/elements/section-blocks-layout.php:34
+#: inc/admin/elements/section-blocks-layout.php:35
+#: inc/admin/elements/section-blocks-layout.php:36
+#: inc/admin/elements/section-blocks-layout.php:37
+#, php-format
+msgid "%d blocks"
+msgstr "%d blocs"
+
+#: inc/admin/elements/section-blocks.php:17
+msgid "Section with blocks"
+msgstr "Section avec des blocs"
+
+#: inc/admin/elements/section-blocks.php:36
+#: inc/admin/elements/section-columns.php:73
+msgid "Margin"
+msgstr "Marges"
+
+#: inc/admin/elements/section-blocks.php:39
+msgid "Empty space around the content"
+msgstr "L'espace vide autour du contenu"
+
+#: inc/admin/elements/section-blocks.php:44
+#: inc/admin/elements/section-columns.php:199
+msgid "Section visibility"
+msgstr "Visibilité de la section"
+
+#: inc/admin/elements/section-blocks.php:47
+#: inc/admin/elements/section-columns.php:202
+msgid "Always visible"
+msgstr "Toujours sisible"
+
+#: inc/admin/elements/section-blocks.php:48
+#: inc/admin/elements/section-columns.php:203
+msgid "Hide on tablet and mobile"
+msgstr "Cachez sur les tablettes et mobiles"
+
+#: inc/admin/elements/section-blocks.php:49
+#: inc/admin/elements/section-columns.php:204
+msgid "Hide on mobile"
+msgstr "Cachez sur les mobiles"
+
+#: inc/admin/elements/section-blocks.php:50
+#: inc/admin/elements/section-columns.php:205
+msgid "Show on tablet and mobile only"
+msgstr "Afficher sur la tablette et mobile uniquement"
+
+#: inc/admin/elements/section-blocks.php:51
+#: inc/admin/elements/section-columns.php:206
+msgid "Show on mobile only"
+msgstr "Afficher sur mobile uniquement"
+
+#: inc/admin/elements/section-blocks.php:52
+#: inc/admin/elements/section-columns.php:207
+msgid "Always hidden"
+msgstr "Toujours caché"
+
+#: inc/admin/elements/section-blocks.php:61
+#: inc/admin/elements/section-columns.php:40
+msgid "An unique identifier for your section."
+msgstr "Un identificateur unique pour votre section."
+
+#: inc/admin/elements/section-blocks.php:69
+#: inc/admin/elements/section-columns.php:249
+msgid "Optional additional CSS class to add to the section"
+msgstr "Classe CSS supplémentaire facultative à ajouter à la section"
+
+#: inc/admin/elements/section-columns.php:18
+msgid "Section with columns"
+msgstr "Section avec colonnes"
+
+#: inc/admin/elements/section-columns.php:45
+msgid "Main color tone"
+msgstr "Couleur principale"
+
+#: inc/admin/elements/section-columns.php:56
+msgid "Padding top"
+msgstr "Marge intérieur en haut"
+
+#: inc/admin/elements/section-columns.php:59
+msgid "Empty space above the content"
+msgstr "Espace vide au-dessus du contenu"
+
+#: inc/admin/elements/section-columns.php:65
+msgid "Padding bottom"
+msgstr "Marge intérieur en bas"
+
+#: inc/admin/elements/section-columns.php:68
+msgid "Empty space below the content"
+msgstr "Espace vide sous le contenu"
+
+#: inc/admin/elements/section-columns.php:76
+msgid ""
+"Empty space around the content (supports CSS format like 0px 0px 0px 0px)"
+msgstr ""
+"L'espace vide autour du contenu (supporte le format CSS comme 0px 0px 0px "
+"0px)"
+
+#: inc/admin/elements/section-columns.php:96
+msgid "Full height"
+msgstr "Pleine Hauteur"
+
+#: inc/admin/elements/section-columns.php:107
+msgid "Add pointing down arrow"
+msgstr "Ajouter une flèche pointant vers le bas"
+
+#: inc/admin/elements/section-columns.php:108
+msgid "Allow user to scroll to the next section when clicking on the arrow"
+msgstr ""
+"Permettre à l'utilisateur de faire défiler à la section suivante en cliquant "
+"sur la flèche"
+
+#: inc/admin/elements/section-columns.php:116
+msgid "Arrow style (if set above)"
+msgstr "Style de la flèche (si séléctionner plus haut)"
+
+#: inc/admin/elements/section-columns.php:135
+msgid "Background effect"
+msgstr "Effet Arrière Plan"
+
+#: inc/admin/elements/section-columns.php:139
+msgid "Parallax"
+msgstr "Parallax"
+
+#: inc/admin/elements/section-columns.php:237
+#: inc/admin/wpb-elements-additional-settings.php:172
+msgid "Advanced settings"
+msgstr "Paramètres avancés"
+
+#: inc/admin/elements/section-columns.php:240
+#: inc/admin/wpb-elements-additional-settings.php:175
+msgid "Hide"
+msgstr "Cacher"
+
+#: inc/admin/elements/section-columns.php:241
+#: inc/admin/wpb-elements-additional-settings.php:176
+msgid "Show"
+msgstr "Montrer"
+
+#: inc/admin/elements/separator.php:18
+msgid "Separator"
+msgstr "Séparateur"
+
+#: inc/admin/elements/separator.php:19
+msgid "Add a line to organize your content"
+msgstr "Ajoutez une ligne pour organiser votre contenu"
+
+#: inc/admin/elements/separator.php:27
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/admin/elements/separator.php:43
+msgid "Aligment"
+msgstr "Alignement"
+
+#: inc/admin/elements/separator.php:62
+msgid "Opacity"
+msgstr "Opacité"
+
+#: inc/admin/elements/separator.php:64 inc/admin/elements/services-table.php:37
+msgid "in percent"
+msgstr "en %"
+
+#: inc/admin/elements/separator.php:79
+msgid "Marign bottom"
+msgstr "Marge du bas"
+
+#: inc/admin/elements/services-table.php:18
+msgid "Service table"
+msgstr "Table de service"
+
+#: inc/admin/elements/services-table.php:19
+msgid "Show what your business is about"
+msgstr "Quel est votre entreprise"
+
+#: inc/admin/elements/services-table.php:27
+msgid "Background color"
+msgstr "Couleur de l'arrière plan"
+
+#: inc/admin/elements/services-table.php:34
+msgid "Background opacity"
+msgstr "Opacité de l’arrière-plan"
+
+#: inc/admin/elements/services-table.php:43
+msgid "Font color"
+msgstr "Couleur de la police"
+
+#: inc/admin/elements/services-table.php:73
+msgid "Title color"
+msgstr "Couleur du titre"
+
+#: inc/admin/elements/services-table.php:99
+msgid "Icon color"
+msgstr "Couleur de l'icône"
+
+#: inc/admin/elements/services-table.php:109
+msgid "Service 1, Service 2"
+msgstr "Service 1, Service 2"
+
+#: inc/admin/elements/skill-bar.php:18
+msgid "Skill bar"
+msgstr "Barres de compétences"
+
+#: inc/admin/elements/skill-bar.php:19
+msgid "An animation to show your competence"
+msgstr "Une animation pour montrer vos compétences"
+
+#: inc/admin/elements/skill-bar.php:34
+msgid "Value"
+msgstr "Valeur"
+
+#: inc/admin/elements/skill-bar.php:41
+msgid "Bar color"
+msgstr "Couleur de la barre"
+
+#: inc/admin/elements/social-icons-custom.php:19
+msgid "Social icons custom URLs"
+msgstr "Icônes sociales URL personnalisées"
+
+#: inc/admin/elements/social-icons-custom.php:22
+msgid "A set of icons linked to your chosen URLs"
+msgstr "Un ensemble d'icônes liées à vos profils sociaux"
+
+#: inc/admin/elements/social-icons-custom.php:66
+#: inc/admin/elements/social-icons.php:79
+msgid "Target"
+msgstr "Cible"
+
+#: inc/admin/elements/social-icons.php:18
+msgid "Social icons"
+msgstr "﻿Icônes de réseaux sociaux"
+
+#: inc/admin/elements/social-icons.php:21
+msgid "A set of icons linked to your social profiles"
+msgstr "Un ensemble d'icônes liées à vos profils sociaux"
+
+#: inc/admin/elements/social-icons.php:32
+#, php-format
+msgid ""
+"Enter the service names separated by a comma. Leave empty to display them "
+"all.<br>You can set your profiles in the <a href=\"%s\" target=\"_blank"
+"\">plugin settings</a>."
+msgstr ""
+"Entrez les noms de service séparés par une virgule. Laissez vide pour les "
+"afficher tous.<br>Vous pouvez définir vos profils dans la <a href=\"%s\" "
+"target=\"_blank\">configuration du plugin</a>."
+
+#: inc/admin/elements/soundcloud.php:18
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/admin/elements/soundcloud.php:20
+msgid "An embed Soundcloud playlist or song"
+msgstr "Une playlist Soundcloud ou une chanson"
+
+#: inc/admin/elements/soundcloud.php:27
+msgid "Playlist or song URL"
+msgstr "URL de liste de lecture ou de la chanson"
+
+#: inc/admin/elements/tabs.php:18
+msgid "Tabs"
+msgstr "Onglets"
+
+#: inc/admin/elements/tabs.php:20
+msgid "A content area with multiple panels"
+msgstr "Une zone de contenu avec des panneaux multiples"
+
+#: inc/admin/elements/tabs.php:58
+msgid "Tab content"
+msgstr "Contenu de l’onglet"
+
+#: inc/admin/elements/team-member.php:19
+msgid "Team member"
+msgstr "Membre de l’équipe"
+
+#: inc/admin/elements/team-member.php:24
+msgid "Present your staff members"
+msgstr "Présenter les membres de votre personnel"
+
+#: inc/admin/elements/team-member.php:28
+msgid "Photo"
+msgstr "Photo"
+
+#: inc/admin/elements/team-member.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: inc/admin/elements/team-member.php:51
+msgid "Role"
+msgstr "Rôle"
+
+#: inc/admin/elements/team-member.php:58
+msgid "Description"
+msgstr "Description"
+
+#: inc/admin/elements/team-member.php:69
+msgid "round"
+msgstr "rond"
+
+#: inc/admin/elements/team-member.php:106
+msgid "Add social profiles"
+msgstr "Ajouter les profils sociaux"
+
+#: inc/admin/elements/testimonials-slider.php:18
+msgid "Testimonials slider"
+msgstr "Slider de témoignages"
+
+#: inc/admin/elements/testimonials-slider.php:20
+msgid "Show the feedbacks submitted by your happy customers"
+msgstr "Montrer les témoignage par vos clients satisfaits"
+
+#: inc/admin/elements/testimonials-slider.php:32
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/admin/elements/testimonials-slider.php:43
+msgid "I am very happy with everything."
+msgstr "Je suis extrêmement satisfait."
+
+#: inc/admin/elements/testimonials-slider.php:48
+msgid "Signature"
+msgstr "Signature"
+
+#: inc/admin/elements/testimonials-slider.php:50
+msgid "Someone"
+msgstr "Quelqu'un"
+
+#: inc/admin/elements/testimonials-slider.php:56
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/admin/elements/text-block.php:18
+msgid "Text block"
+msgstr "Bloc de texte"
+
+#: inc/admin/elements/text-block.php:20
+msgid "A block of text with the Wordpress editor"
+msgstr "Un bloc de texte avec l'éditeur de Wordpress"
+
+#: inc/admin/elements/text-block.php:28
+#, php-format
+msgid "This is a text block. %s"
+msgstr "Ceci est un bloc de texte. %s"
+
+#: inc/admin/elements/toggle.php:18
+msgid "Toggle"
+msgstr "Toggle"
+
+#: inc/admin/elements/toggle.php:20
+msgid "Collapsible content"
+msgstr "Contenu retractable"
+
+#: inc/admin/elements/toggle.php:41
+msgid "Open by default"
+msgstr "Ouvert par défaut"
+
+#: inc/admin/elements/tour-dates.php:18
+msgid "Tour Dates"
+msgstr "Liste des concerts"
+
+#: inc/admin/elements/tour-dates.php:19
+msgid "Display your event list from the Wolf Tour Dates plugin"
+msgstr "Affichez votre liste d'événements du plugin Wolf Tour Dates"
+
+#: inc/admin/elements/tour-dates.php:67
+msgid "Tour Dates Widget"
+msgstr "Tour Dates Widget"
+
+#: inc/admin/elements/tour-dates.php:69
+msgid "Events list widget"
+msgstr "Widget de la Liste des événements"
+
+#: inc/admin/elements/tour-dates.php:90
+msgid "Tour dates page URL"
+msgstr ""
+
+#: inc/admin/elements/tour-dates.php:97
+msgid "Link text"
+msgstr "Texte du lien"
+
+#: inc/admin/elements/tour-dates.php:99
+msgid "View all dates"
+msgstr "Voir toutes les dates"
+
+#: inc/admin/elements/tweet-this.php:18
+msgid "Tweet this"
+msgstr "Tweeter"
+
+#: inc/admin/elements/tweet-this.php:19
+msgid "Tweet this button"
+msgstr "Bouton Tweet"
+
+#: inc/admin/elements/twitter.php:20
+msgid "Last tweets"
+msgstr "Derniers Tweets"
+
+#: inc/admin/elements/twitter.php:22
+msgid "Your last tweets"
+msgstr "Derniers tweet"
+
+#: inc/admin/elements/twitter.php:30
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: inc/admin/elements/twitter.php:41
+msgid "single"
+msgstr "simple"
+
+#: inc/admin/elements/twitter.php:42
+msgid "list"
+msgstr "liste"
+
+#: inc/admin/elements/video-carousel.php:18
+msgid "Video carousel"
+msgstr "Carrousel de vidéos"
+
+#: inc/admin/elements/video-carousel.php:20
+msgid "A list of videos displayed in a carousel"
+msgstr "Une liste de vidéos affichées dans un carrousel"
+
+#: inc/admin/elements/video-carousel.php:27
+msgid "Video URLs"
+msgstr ""
+
+#: inc/admin/elements/video-carousel.php:30
+msgid "Enter your YouTube or Vimeo URLs separated by a comma."
+msgstr "Entrez votre YouTube ou Vimeo URL séparés par une virgule."
+
+#: inc/admin/elements/video-opener.php:18
+msgid "Video opener"
+msgstr "Ouvreur de vidéo"
+
+#: inc/admin/elements/video-opener.php:20
+msgid "Open a video in a overlay"
+msgstr "Ouvrir la vidéo dans une lightbox"
+
+#: inc/admin/elements/video-opener.php:27
+msgid "Custom play button"
+msgstr "Bouton de lecture personnalisé"
+
+#: inc/admin/elements/video-opener.php:37
+msgid "Button image"
+msgstr "Image Bouton"
+
+#: inc/admin/elements/video-opener.php:39
+msgid "If empty, a standard play button will be displayed"
+msgstr "Si vide, un bouton de lecture standard s'affichera"
+
+#: inc/admin/elements/video-opener.php:57 inc/admin/elements/video.php:28
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+#: inc/admin/elements/video-opener.php:61
+#, php-format
+msgid "Support %1$s and %2$s"
+msgstr "Prend en charge %1$s et %2$s"
+
+#: inc/admin/elements/video.php:20
+msgid "An embed video"
+msgstr "Intégrer la vidéo"
+
+#: inc/admin/elements/video.php:32
+#, php-format
+msgid ""
+"Link to the video. More about supported formats at <a href=\"%s\" target="
+"\"_blank\">WordPress codex page.</a>"
+msgstr ""
+"Lien de la vidéo. Plus d'informations à propos des formats supportés à <a "
+"href=\"%s\" target=\"_blank\">WordPress codex page.</a>"
+
+#: inc/admin/elements/videos-carousel.php:19
+msgid "Last videos carousel"
+msgstr "Carrousel de vidéos"
+
+#: inc/admin/elements/videos-carousel.php:20
+msgid "The last videos from your video gallery in a carousel"
+msgstr "Les dernières vidéos de votre galerie de vidéo dans un carrousel"
+
+#: inc/admin/elements/videos.php:19
+msgid "Last videos"
+msgstr "Derniére vidéos"
+
+#: inc/admin/elements/videos.php:20
+msgid "The last videos from your video gallery"
+msgstr "Les dernières vidéos de votre galerie vidéo"
+
+#: inc/admin/elements/woocommerce-widgets.php:21
+msgid "Order Tracking"
+msgstr "Suivi de commande"
+
+#: inc/admin/elements/woocommerce-widgets.php:31
+msgid "Product price/cart button"
+msgstr "Prix du produit /boutton panier"
+
+#: inc/admin/elements/woocommerce-widgets.php:53
+msgid "Product by SKU/ID"
+msgstr "Produit par SKU/ID"
+
+#: inc/admin/elements/woocommerce-widgets.php:75
+msgid "Products by SKU/ID"
+msgstr "Produits par SKU/ID"
+
+#: inc/admin/elements/woocommerce-widgets.php:97
+msgid "Product categories"
+msgstr "Catégories de produits"
+
+#: inc/admin/elements/woocommerce-widgets.php:114
+msgid "Products by category slug"
+msgstr "Produits par slug de catégorie"
+
+#: inc/admin/elements/woocommerce-widgets.php:127
+#: inc/admin/elements/woocommerce-widgets.php:173
+#: inc/admin/elements/woocommerce-widgets.php:220
+msgid "Per page"
+msgstr "Par page"
+
+#: inc/admin/elements/woocommerce-widgets.php:143
+#: inc/admin/elements/woocommerce-widgets.php:190
+#: inc/admin/elements/woocommerce-widgets.php:236
+msgid "Order by"
+msgstr "Ordonner par"
+
+#: inc/admin/elements/woocommerce-widgets.php:152
+#: inc/admin/elements/woocommerce-widgets.php:199
+#: inc/admin/elements/woocommerce-widgets.php:245
+msgid "Order"
+msgstr "Ordonner"
+
+#: inc/admin/elements/woocommerce-widgets.php:166
+msgid "Recent products"
+msgstr "Produits récents"
+
+#: inc/admin/elements/woocommerce-widgets.php:213
+msgid "Featured products"
+msgstr "Produits mis en avant"
+
+#: inc/admin/elements/wp-widgets.php:64
+msgid "Sort by"
+msgstr "Afficher par"
+
+#: inc/admin/elements/wp-widgets.php:68
+msgid "Page title"
+msgstr "Titre de page"
+
+#: inc/admin/elements/wp-widgets.php:69
+msgid "Page order"
+msgstr "Ordre de page"
+
+#: inc/admin/elements/wp-widgets.php:70
+msgid "Page ID"
+msgstr "ID de page"
+
+#: inc/admin/elements/wp-widgets.php:75
+msgid "Exclude"
+msgstr "Exclure"
+
+#: inc/admin/elements/wp-widgets.php:78
+msgid "Page IDs, separated by commas."
+msgstr "ID des pages, séparés par des virgules."
+
+#: inc/admin/elements/wp-widgets.php:114 inc/admin/elements/wp-widgets.php:182
+msgid "Display as dropdown"
+msgstr "Afficher en tant que liste déroulante"
+
+#: inc/admin/elements/wp-widgets.php:119 inc/admin/elements/wp-widgets.php:187
+msgid "Show post count"
+msgstr "Afficher le compteur de posts"
+
+#: inc/admin/elements/wp-widgets.php:156
+msgid "Taxonomy:"
+msgstr "Taxonomie :"
+
+#: inc/admin/elements/wp-widgets.php:161
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/admin/elements/wp-widgets.php:192
+msgid "Show hierarchy"
+msgstr "Afficher la hiérarchie"
+
+#: inc/admin/elements/wp-widgets.php:207
+msgid "Enter the RSS feed URL here"
+msgstr "Saisissez l'url du flux RSS"
+
+#: inc/admin/elements/wp-widgets.php:213
+msgid "Give the feed a title (optional)"
+msgstr "Donnez un titre (facultatif) au flux :"
+
+#: inc/admin/elements/wp-widgets.php:218
+msgid "How many items would you like to display"
+msgstr "Combien d'éléments souhaitez-vous afficher?"
+
+#: inc/admin/elements/wp-widgets.php:227
+msgid "Display item content?"
+msgstr "Afficher le contenu de l'élément?"
+
+#: inc/admin/elements/wp-widgets.php:232
+msgid "Display item author if available?"
+msgstr "Afficher l’auteur si disponible"
+
+#: inc/admin/elements/wp-widgets.php:237
+msgid "Display item date?"
+msgstr "Afficher la date de l'élément?"
+
+#: inc/admin/elements/wp-widgets.php:264
+msgid "Display post date?"
+msgstr "Afficher la Date de publication ?"
+
+#: inc/admin/elements/wp-widgets.php:311
+#, php-format
+msgid "%s Widget"
+msgstr "Le widget %s."
+
+#: inc/admin/elements/wp-widgets.php:314
+msgid "Wordpress Widgets"
+msgstr "Widgets WordPress"
+
+#: inc/admin/elements/youtube.php:18
+msgid "YouTube video"
+msgstr ""
+
+#: inc/admin/elements/youtube.php:20
+msgid "A youtube video with video preview"
+msgstr "Une vidéo youtube avec vidéo preview"
+
+#: inc/admin/elements/youtube.php:26
+msgid "YouTube video URL"
+msgstr "URL YouTube de l'arrière plan vidéo"
+
+#: inc/admin/elements/youtube.php:35
+msgid "My video title"
+msgstr "Mon super titre"
+
+#: inc/admin/elements/youtube.php:41
+msgid "Cover image"
+msgstr "Image de couverture"
+
+#: inc/admin/elements/youtube.php:48
+msgid "Video preview"
+msgstr "Aperçu de la vidéo"
+
+#: inc/admin/elements/youtube.php:50
+msgid "A short mp4 video file"
+msgstr "Un fichier vidéo court mp4"
+
+#: inc/admin/pages/helpdesk.php:17
+msgid "Redirection..."
+msgstr "Redirection..."
+
+#: inc/admin/tinymce/load.php:22
+msgid "Wrap selection"
+msgstr "Entourer le selection"
+
+#: inc/admin/tinymce/load.php:22
+msgid "Insert"
+msgstr "Insérer"
+
+#: inc/admin/tinymce/popup/alert.php:17
+msgid "Your notification message"
+msgstr "Votre message de notification"
+
+#: inc/admin/tinymce/popup/alert.php:25
+msgid "success"
+msgstr "succès"
+
+#: inc/admin/tinymce/popup/alert.php:26
+msgid "info"
+msgstr "info"
+
+#: inc/admin/tinymce/popup/alert.php:27
+msgid "tip"
+msgstr "astuce"
+
+#: inc/admin/tinymce/popup/alert.php:28
+msgid "error"
+msgstr "erreur"
+
+#: inc/admin/tinymce/popup/button.php:12
+msgid "theme color"
+msgstr "Couleur du thème"
+
+#: inc/admin/tinymce/popup/button.php:13
+msgid "theme color black/white on hover"
+msgstr "Couleur du thème noir/blanc au survol"
+
+#: inc/admin/tinymce/popup/button.php:14
+msgid "black/white"
+msgstr "noir/blanc"
+
+#: inc/admin/tinymce/popup/button.php:15
+msgid "black/white theme color on hover"
+msgstr "Noir et blanc couleur du thème au survol"
+
+#: inc/admin/tinymce/popup/button.php:43
+msgid "http://"
+msgstr "http://"
+
+#: inc/admin/tinymce/popup/button.php:74
+msgid "Open link in a new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: inc/admin/tinymce/popup/button.php:88
+msgid "Add Icon"
+msgstr "Ajouter un icone"
+
+#: inc/admin/tinymce/popup/columns.php:19
+msgid "col-6 (one half)"
+msgstr "col-6 (moitié)"
+
+#: inc/admin/tinymce/popup/columns.php:20
+msgid "col-4 (one third)"
+msgstr "col-4 (un tiers)"
+
+#: inc/admin/tinymce/popup/columns.php:21
+msgid "col-3 (one fourth)"
+msgstr "col-3 (un quart)"
+
+#: inc/admin/tinymce/popup/columns.php:31
+msgid ""
+"A row consists of a series of columns (col-X) that add up to 12.<br>Check "
+"the \"First\" checkbox below if your column is the first of the row<br>and "
+"check the \"Last\" checkbox if your column is the last of the row."
+msgstr ""
+"Une ligne se compose d'une série de colonnes (col-X) qui s'additionnent  "
+"jusqu'à 12.<br>Cochez la case « First » ci-dessous si votre colonne est le "
+"premier de la ligne<br>et cochez la case « Dernier » si votre colonne est la "
+"dernière de la ligne."
+
+#: inc/admin/tinymce/popup/columns.php:36
+msgid "First"
+msgstr "Premier"
+
+#: inc/admin/tinymce/popup/columns.php:42
+msgid "Last"
+msgstr "Dernier"
+
+#: inc/admin/tinymce/popup/dropcap.php:11
+#: inc/admin/tinymce/popup/fittext.php:11
+msgid "Default heading font"
+msgstr "Police du titre par défaut"
+
+#: inc/admin/tinymce/popup/dropcap.php:23
+msgid "Letter"
+msgstr "Lettre"
+
+#: inc/admin/tinymce/popup/dropcap.php:28
+#: inc/admin/tinymce/popup/fittext.php:41
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: inc/admin/tinymce/popup/fittext.php:24
+msgid "My Cool Headline"
+msgstr "Mon Super Gros Titre"
+
+#: inc/admin/tinymce/popup/fittext.php:29
+msgid "Font Size"
+msgstr "Taille de la police"
+
+#: inc/admin/tinymce/popup/fittext.php:35
+msgid "Letter Spacing"
+msgstr "Espacement des caractères"
+
+#: inc/admin/tinymce/popup/fittext.php:48
+msgid "Font Transform"
+msgstr "Transformation de la police"
+
+#: inc/admin/tinymce/popup/highlight.php:37
+msgid "Highlight Text"
+msgstr "Texte en surbrillance"
+
+#: inc/admin/tinymce/popup/highlight.php:46
+msgid "yellow"
+msgstr "jaune"
+
+#: inc/admin/tinymce/popup/highlight.php:47
+msgid "green"
+msgstr "vert"
+
+#: inc/admin/tinymce/popup/highlight.php:48
+msgid "red"
+msgstr "rouge"
+
+#: inc/admin/tinymce/popup/highlight.php:49
+msgid "black"
+msgstr "noir"
+
+#: inc/admin/tinymce/popup/highlight.php:50
+msgid "white"
+msgstr "blanc"
+
+#: inc/admin/tinymce/popup/highlight.php:56
+msgid "Wrap selected words"
+msgstr "Entourer les mots sélectionnés."
+
+#: inc/admin/tinymce/popup/mailchimp.php:11
+msgid "Mailchimp signup"
+msgstr "Souscription Mailchimp "
+
+#: inc/admin/tinymce/popup/mailchimp.php:16
+msgid "List"
+msgstr "Liste"
+
+#: inc/admin/tinymce/popup/mailchimp.php:17
+msgid "Your mailchimp list ID."
+msgstr "Votre ID de liste MailChimp."
+
+#: inc/admin/tinymce/popup/mailchimp.php:33
+msgid "Submit"
+msgstr "Valider"
+
+#: inc/admin/tinymce/popup/socials.php:18
+msgid ""
+"Leave empty to display them all.<br>* See the social networks available in "
+"the plugin options."
+msgstr ""
+"Laissez vide pour les afficher tous.<br>* Voir les réseaux sociaux "
+"disponibles dans les options du plugin."
+
+#: inc/admin/wpb-admin-functions.php:179 inc/admin/wpb-admin-functions.php:250
+msgid "This shortcode is deprecated or is from a disabled plugin"
+msgstr "Ce shortcode est obsolète ou provient d’un plugin désactivé"
+
+#: inc/admin/wpb-admin-functions.php:219 inc/admin/wpb-admin-functions.php:326
+#: inc/admin/wpb-admin-functions.php:348 inc/ajax/wpb-ajax-functions.php:563
+#, php-format
+msgid "%s settings"
+msgstr "Réglages %s"
+
+#: inc/admin/wpb-admin-functions.php:220 inc/admin/wpb-admin-functions.php:349
+msgid "Duplicate element"
+msgstr "Dupliquer l'élément"
+
+#: inc/admin/wpb-admin-functions.php:221 inc/admin/wpb-admin-functions.php:352
+msgid "Remove element"
+msgstr "Supprimer l'élément"
+
+#: inc/admin/wpb-admin-functions.php:222
+msgid "Move element"
+msgstr "Déplacer l'élément"
+
+#: inc/admin/wpb-admin-functions.php:276
+msgid "Move section"
+msgstr "Déplacer la section"
+
+#: inc/admin/wpb-admin-functions.php:277
+msgid "Collapse section"
+msgstr "Visibilité de la section"
+
+#: inc/admin/wpb-admin-functions.php:284
+msgid "Section settings"
+msgstr "Paramètres de la section"
+
+#: inc/admin/wpb-admin-functions.php:285
+msgid "Duplicate section"
+msgstr "Dupliquer la section"
+
+#: inc/admin/wpb-admin-functions.php:286
+msgid "Remove section"
+msgstr "Supprimer la section"
+
+#: inc/admin/wpb-admin-functions.php:289
+msgid "Add a row of columns"
+msgstr "Ajouter une rangée de colonnes"
+
+#: inc/admin/wpb-admin-functions.php:306
+msgid "Move row"
+msgstr "Déplacer la rangée"
+
+#: inc/admin/wpb-admin-functions.php:308
+msgid "Duplicate row"
+msgstr "Déplacer la rangée"
+
+#: inc/admin/wpb-admin-functions.php:309
+msgid "Remove row"
+msgstr "Supprimer la rangée"
+
+#: inc/admin/wpb-admin-functions.php:310
+msgid "Row settings"
+msgstr "Réglages de la rangée"
+
+#: inc/admin/wpb-admin-functions.php:325
+msgid "Add element"
+msgstr "Ajouter un élément"
+
+#: inc/admin/wpb-admin-functions.php:489
+msgid "No slider yet"
+msgstr "Pas de slider"
+
+#: inc/admin/wpb-admin-functions.php:509
+msgid "Hide permanently"
+msgstr "Ne jamais afficher"
+
+#: inc/admin/wpb-admin-pointers.php:24
+msgid "Start by adding your first section"
+msgstr "Commencez par ajouter votre première section"
+
+#: inc/admin/wpb-element-fields.php:26
+msgid "There is no settings for this element. You can save it as is."
+msgstr ""
+"Il n’y a pas de paramètres pour cet élément. Vous pouvez enregistrer tel "
+"quel."
+
+#: inc/admin/wpb-element-fields.php:346
+msgid "Choose a file"
+msgstr "Choisir un fichier"
+
+#: inc/admin/wpb-element-fields.php:362 inc/admin/wpb-element-fields.php:594
+msgid "Choose a video file"
+msgstr "Choisissez un fichier vidéo"
+
+#: inc/admin/wpb-element-fields.php:383
+msgid "Are you sure to want to reset all images ?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser toutes les images ?"
+
+#: inc/admin/wpb-element-fields.php:423
+msgid "Clear all"
+msgstr "Tout effacer"
+
+#: inc/admin/wpb-element-fields.php:439
+#, php-format
+msgid "%s color"
+msgstr "Couleur du %s"
+
+#: inc/admin/wpb-element-fields.php:472
+#, php-format
+msgid "%s Image"
+msgstr "Image du %s"
+
+#: inc/admin/wpb-element-fields.php:486
+msgid "cover"
+msgstr "cover"
+
+#: inc/admin/wpb-element-fields.php:487
+msgid "contain"
+msgstr "contain"
+
+#: inc/admin/wpb-element-fields.php:488
+msgid "100% width"
+msgstr "Pleine largeur"
+
+#: inc/admin/wpb-element-fields.php:489
+msgid "100% height"
+msgstr "Pleine hauteur (100% de la partie visible de l’écran)"
+
+#: inc/admin/wpb-element-fields.php:490
+msgid "inherit"
+msgstr "inherit"
+
+#: inc/admin/wpb-element-fields.php:493
+msgid "no repeat"
+msgstr "pas de répetition"
+
+#: inc/admin/wpb-element-fields.php:494
+msgid "repeat"
+msgstr "répetition"
+
+#: inc/admin/wpb-element-fields.php:495
+msgid "repeat horizontally"
+msgstr "répétition horizontale"
+
+#: inc/admin/wpb-element-fields.php:496
+msgid "repeat vertically"
+msgstr "répétez verticalement"
+
+#: inc/admin/wpb-element-fields.php:547
+#, php-format
+msgid "%s type"
+msgstr "type de %s"
+
+#: inc/admin/wpb-element-fields.php:551
+msgid "Self hosted"
+msgstr "Auto-hébergé"
+
+#: inc/admin/wpb-element-fields.php:559
+#, php-format
+msgid "%s youtube URL"
+msgstr "URL YouTube du %s "
+
+#: inc/admin/wpb-element-fields.php:567
+#, php-format
+msgid "%s vimeo URL"
+msgstr "URL vimeo  du %s "
+
+#: inc/admin/wpb-element-fields.php:612
+#, php-format
+msgid "%s image fallback"
+msgstr " Image pour mobile du %s"
+
+#: inc/admin/wpb-element-fields.php:613
+msgid "Used in case the video can't be displayed."
+msgstr "Utilisé dans le cas où la vidéo ne peut pas être affichée."
+
+#: inc/admin/wpb-elements-additional-settings.php:47
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: inc/admin/wpb-elements-additional-settings.php:57
+msgid "Pause on hover (if autoplay)"
+msgstr "Faire une pause au survol (si autoplay)"
+
+#: inc/admin/wpb-elements-additional-settings.php:67
+msgid "Transition"
+msgstr "Effet de transition"
+
+#: inc/admin/wpb-elements-additional-settings.php:70
+msgid "Auto (fade by default and slide on touchable devices)"
+msgstr "Auto (fondu par défaut et diapositives sur les périphériques tactiles)"
+
+#: inc/admin/wpb-elements-additional-settings.php:71
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/admin/wpb-elements-additional-settings.php:72
+msgid "Fade"
+msgstr "Fade"
+
+#: inc/admin/wpb-elements-additional-settings.php:78
+msgid "Slideshow Speed in ms"
+msgstr "Vitesse du diaporama en ms"
+
+#: inc/admin/wpb-elements-additional-settings.php:85
+msgid "Show navigation bullets"
+msgstr "Afficher bulles de navigation"
+
+#: inc/admin/wpb-elements-additional-settings.php:95
+msgid "Show navigation arrows"
+msgstr "Afficher flèches de navigation"
+
+#: inc/admin/wpb-elements-additional-settings.php:122
+#: inc/admin/wpb-elements-additional-settings.php:230
+#: inc/admin/wpb-elements-additional-settings.php:258
+#: inc/admin/wpb-elements-additional-settings.php:286
+msgid "Animation"
+msgstr "Animation"
+
+#: inc/admin/wpb-elements-additional-settings.php:130
+msgid "Animation delay (in ms)"
+msgstr "Délai de l'animation (ms)"
+
+#: inc/admin/wpb-elements-additional-settings.php:184
+msgid "An unique ID for your element."
+msgstr "Un ID unique pour votre élément."
+
+#: inc/admin/wpb-elements-additional-settings.php:193
+msgid "Optional CSS class to add to the element"
+msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#: inc/admin/wpb-settings.php:64
+msgid "Minify CSS files"
+msgstr "Utiliser le CSS minifié"
+
+#: inc/admin/wpb-settings.php:70
+msgid "Minify JS files"
+msgstr "Utiliser le JS minifié"
+
+#: inc/admin/wpb-settings.php:76
+msgid "Enable animation on mobile devices"
+msgstr "Permettre les animations sur les appareils mobiles"
+
+#: inc/admin/wpb-settings.php:89
+msgid "MailChimp API key"
+msgstr "Clé API Mailchimp"
+
+#: inc/admin/wpb-settings.php:90
+msgid ""
+"Your MailChimp API can be found in your MailChimp profile -> account -> "
+"extras -> API keys"
+msgstr ""
+"Votre clé API se trouve dans votre compte MailChimp sous compte > Extras > "
+"clés de l’API."
+
+#: inc/admin/wpb-settings.php:96
+msgid "Default MailChimp list ID"
+msgstr "ID de votre liste MailChimp par défault"
+
+#: inc/admin/wpb-settings.php:103
+msgid "Newsletter form title"
+msgstr "Titre du formulaire"
+
+#: inc/admin/wpb-settings.php:104
+msgid "Receive the last news directly into your mailbox!"
+msgstr ""
+"Recevez les dernières nouvelles directement dans votre boîte aux lettres!"
+
+#: inc/admin/wpb-settings.php:110
+msgid "\"Subscribe\" button text"
+msgstr "Bouton S'abonnez"
+
+#: inc/admin/wpb-settings.php:111 inc/frontend/shortcodes/mailchimp.php:28
+#: inc/frontend/shortcodes/mailchimp.php:63
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: inc/admin/wpb-settings.php:117
+msgid "Form input placeholder"
+msgstr ""
+
+#: inc/admin/wpb-settings.php:118
+msgid "e.g: your email"
+msgstr "par exemple: votre e-mail"
+
+#: inc/admin/wpb-settings.php:124
+msgid "Background image"
+msgstr "Image d'arrière plan"
+
+#: inc/admin/wpb-settings.php:131
+msgid "Fonts loader"
+msgstr "Chargeur de polices"
+
+#: inc/admin/wpb-settings.php:138
+msgid "Google fonts"
+msgstr "Polices Google"
+
+#: inc/admin/wpb-settings.php:142
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Find GoogleFonts</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Trouver des polices Google</a>"
+
+#: inc/admin/wpb-settings.php:157
+msgid "Social profiles"
+msgstr "Profils sociaux"
+
+#: inc/admin/wpb-templates.php:28
+msgid "Landing page"
+msgstr "Landing Page"
+
+#: inc/admin/wpb-templates.php:37
+msgid "About us"
+msgstr "À propos"
+
+#: inc/admin/wpb-templates.php:46
+msgid "Coming soon"
+msgstr "Arrive bientôt"
+
+#: inc/admin/wpb-templates.php:55
+msgid "Event"
+msgstr "Evénement"
+
+#: inc/ajax/wpb-ajax-functions.php:32
+msgid "Subscription successful"
+msgstr "Souscription réussie"
+
+#: inc/ajax/wpb-ajax-functions.php:35
+msgid "Please insert a valid email"
+msgstr "Merci d'inscire une adresse email valide"
+
+#: inc/ajax/wpb-ajax-functions.php:66
+msgid "It must be a text file"
+msgstr "Cela doit être un fichier texte"
+
+#: inc/ajax/wpb-ajax-functions.php:171
+msgid "or choose a template"
+msgstr "ou choisissez un modèle"
+
+#: inc/ajax/wpb-ajax-functions.php:536
+msgid "All"
+msgstr "Tout"
+
+#: inc/ajax/wpb-ajax-functions.php:546
+msgid "Search an element..."
+msgstr "Rechercher un élément..."
+
+#: inc/ajax/wpb-ajax-functions.php:591
+msgid ""
+"Error retrieving the element settings. It seems that this element doesn't "
+"exist."
+msgstr ""
+"Erreur lors de la récupération des paramètres de l'élément. Il semble que "
+"cet élément n'existe pas."
+
+#: inc/class-widget-mailchimp.php:37
+msgid "Newsletter signup form"
+msgstr "Souscrire à la newsletter"
+
+#: inc/class-widget-mailchimp.php:103
+msgid ""
+"Can be found in your mailchimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+"Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom de "
+"liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#: inc/frontend/shortcodes/bandsintown.php:52
+msgid "Please set an artist."
+msgstr "Entrer l'ID de l'artiste"
+
+#: inc/frontend/shortcodes/bandsintown.php:54
+msgid "No event scheduled."
+msgstr "Aucun événement prévu."
+
+#: inc/frontend/shortcodes/count-down.php:27
+msgid "Done!"
+msgstr "Terminé  !"
+
+#: inc/frontend/shortcodes/last-posts-big-slider.php:156
+#: inc/frontend/shortcodes/last-posts.php:172
+msgid "No post found."
+msgstr "Pas d'articles"
+
+#: inc/frontend/shortcodes/last-posts-big-slider.php:160
+#: inc/frontend/shortcodes/last-posts.php:176
+msgid "Only posts with a featured image will be displayed."
+msgstr ""
+"Notez que seuls les articles avec une images « à la une » définie seront "
+"affichés."
+
+#: inc/frontend/shortcodes/mailchimp.php:32
+#: inc/frontend/shortcodes/mailchimp.php:67
+msgid "enter your email address"
+msgstr "Entrez votre adresse email."
+
+#: inc/frontend/shortcodes/mailchimp.php:142
+msgid "You must set your MailChimp API key in the plugin settings"
+msgstr ""
+"Vous devez définir votre clé API de mailchimp dans la configuration du plugin"
+
+#: inc/frontend/shortcodes/mailchimp.php:146
+msgid "You must set a list ID."
+msgstr "Vous devez définir une ID de liste!"
+
+#: inc/frontend/shortcodes/pricing-tables.php:74
+msgid "Buy Now"
+msgstr "Achetez maintenant"
+
+#: inc/frontend/shortcodes/team-member.php:93
+msgid "team member"
+msgstr "membre de l'équipe"
+
+#: inc/frontend/shortcodes/tweet-this.php:38
+msgid "Tweet"
+msgstr "Tweet"
+
+#: inc/frontend/shortcodes/youtube.php:60
+#, php-format
+msgid "Watch %s"
+msgstr "Regarder %s"
+
+#: inc/frontend/wpb-functions.php:446
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les articles de %s"
+
+#: inc/frontend/wpb-functions.php:474 inc/frontend/wpb-functions.php:482
+msgid ", "
+msgstr ","
+
+#: inc/frontend/wpb-functions.php:575 inc/frontend/wpb-functions.php:576
+#, php-format
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: inc/globals/custom-colors.php:21
+msgid "Custom"
+msgstr "Personalisé"
+
+#: inc/globals/custom-colors.php:31
+msgid "Background Color"
+msgstr "Couleur d'arrière plan"
+
+#: inc/globals/custom-colors.php:38
+msgid "Icon Color"
+msgstr "Couleur de l'icone"
+
+#: inc/globals/custom-colors.php:45
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: inc/globals/custom-colors.php:52
+msgid "Background Color on Hover"
+msgstr "Couleur de l'arrière-plan au survol"
+
+#: inc/globals/custom-colors.php:59
+msgid "Icon Color on Hover"
+msgstr "Couleur de l'icone au survol"
+
+#: inc/globals/custom-colors.php:66
+msgid "Border Color on Hover"
+msgstr "Couleur de bordure au survol"
+
+#: inc/globals/image-sizes.php:18
+msgid "Landscape"
+msgstr "Paysage"
+
+#: inc/globals/image-sizes.php:20
+msgid "Portrait"
+msgstr "Portrait"
+
+#: inc/globals/image-sizes.php:21
+msgid "Extra large"
+msgstr "Extra Large"
+
+#: inc/globals/image-sizes.php:24
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: inc/globals/image-sizes.php:25
+msgid "Full"
+msgstr "Pleine taille"
+
+#: inc/globals/image-sizes.php:41
+msgid "DEMO IMAGE"
+msgstr "IMAGE DE DÉMO"
+
+#: inc/wpb-google-fonts.php:67
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: templates/post/content-big-slider.php:28
+msgid "Continue reading"
+msgstr "Lire la suite"
+
+#: templates/post/content-columns.php:27 templates/post/content-preview.php:21
+#: templates/post/content-slider.php:18
+msgid "Edit"
+msgstr "Editer"
+
+#: wolf-page-builder.php:95 wolf-page-builder.php:102
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+#: wolf-page-builder.php:132
+#, php-format
+msgid ""
+"%1$s needs at least PHP %2$s installed on your server. You have version %3$s "
+"currently installed. Please contact your hosting service provider if you're "
+"not able to update PHP by yourself."
+msgstr ""
+"%1$s a besoins d'au moins PHP%2$s installés sur votre serveur. Vous avez la "
+"version%3$s actuellement installés. S'il vous plaît contacter votre "
+"fournisseur de services d'hébergement si vous n'êtes pas en mesure de mettre "
+"à jour PHP par vous-même."
+
+#~ msgid ""
+#~ "Can be found in your MailChimp account -> Lists -> Your List Name -> "
+#~ "Settings -> List Name & default"
+#~ msgstr ""
+#~ "Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom "
+#~ "de liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#~ msgid "Submit text (default is \"Subscribe\")"
+#~ msgstr "Texte d'inscription (Défaut \"s'inscrire\")"
+
+#~ msgid "Always hide"
+#~ msgstr "Toujours cacher"
+
+#~ msgid "Video background controls"
+#~ msgstr "Contrôles de vidéo d’arrière-plan"
+
+#~ msgid ""
+#~ "The <strong>%1$s</strong> directory has to be writable. Please set the "
+#~ "folder permission to 775 through your FTP client <br>or with the command "
+#~ "line <strong>chmod 775 %2$s</strong>."
+#~ msgstr ""
+#~ "Le répertoire <strong>%1$s</strong> doit être accessible en écriture. S' "
+#~ "il vous plaît définir l'autorisation de dossier à 775 via votre client "
+#~ "FTP. <strong>chmod 775 %2$s</strong>"
+
+#~ msgid ""
+#~ "Error while trying to find the folder <strong>%1$s</strong>. Please "
+#~ "create it manually and set the permission to 775 through your FTP "
+#~ "client<br>or with the command line <strong>mkdir -m 775 %2$s</strong>"
+#~ msgstr ""
+#~ "Erreur en essayant de trouver le dossier <strong>%1$s</strong>. Veuillez "
+#~ "le créer manuellement et définir l'autorisation à  775 via votre client "
+#~ "FTP<br>ou avec la ligne de commande <strong>mkdir-m 775 %2$s</strong>"
+
+#~ msgid "Submit Text"
+#~ msgstr "Text \"Valider\""
+
+#~ msgid "your email"
+#~ msgstr "votre email"
+
+#~ msgid ""
+#~ "Wolf Page Builder needs at least PHP %1$s installed on your server. You "
+#~ "have version %2$s currently installed. Please contact your hosting "
+#~ "service provider if you're not able to update PHP by yourself."
+#~ msgstr ""
+#~ "Wolf Page Builder a besoin d'au moins PHP %1$s installé sur votre "
+#~ "serveur. Vous avez la version %2$s actuellement installé. Si vous n’êtes "
+#~ "pas en mesure de mettre à jour PHP par vous-même, veuillez contacter "
+#~ "votre hébergeur."
+
+#~ msgid ""
+#~ "You must do this change if you want to be able to import content via the "
+#~ "Wof Page Builder importer button."
+#~ msgstr ""
+#~ "Vous devez faire ce changement si vous voulez être en mesure d'importer "
+#~ "du contenu via le bouton importateur de Wof Page Builder."
+
+#~ msgid "An image/video slider"
+#~ msgstr "Un slider image/vidéo"
+
+#~ msgid "Galleries"
+#~ msgstr "Galeries"
+
+#~ msgid "Media"
+#~ msgstr "Média"
+
+#~ msgid "Button size"
+#~ msgstr "Taille de bouton."
+
+#~ msgid "Display a FB fan box"
+#~ msgstr "Affiche une boîte de fan FB"
+
+#~ msgid "Show cover"
+#~ msgstr "Afficher la jaquette"
+
+#~ msgid "Upcoming Shows Widget"
+#~ msgstr "Concerts à venir"
+
+#~ msgid "Disable parallax on mobile devices"
+#~ msgstr "Désactiver le mode parallaxe sur les appareils mobiles"
+
+#~ msgid "Disable animation on mobile devices"
+#~ msgstr "Désactiver l'animation sur des appareils mobiles"
+
+#~ msgid "You must set your mailchimp API key in the plugin settings"
+#~ msgstr ""
+#~ "Vous devez définir votre clé API de mailchimp dans la configuration du "
+#~ "plugin"
+
+#~ msgid "You must set a list ID!"
+#~ msgstr "Vous devez définir une ID de liste!"
+
+#~ msgid "Years"
+#~ msgstr "Ans"
+
+#~ msgid "Months"
+#~ msgstr "Mois"
+
+#~ msgid "Weeks"
+#~ msgstr "Semaines"
+
+#~ msgid "Days"
+#~ msgstr "Jours"
+
+#~ msgid "Hours"
+#~ msgstr "Heures"
+
+#~ msgid "Minutes"
+#~ msgstr "Minutes"
+
+#~ msgid "Seconds"
+#~ msgstr "Secondes"
+
+#~ msgid "Button target"
+#~ msgstr "Cible du bouton"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">Font</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">Police</a>"
+
+#~ msgid "Wolf Page Builder"
+#~ msgstr "Wolf Page Builder"
+
+#~ msgid "http://wolfthemes.com/plugin/wolf-page-builder"
+#~ msgstr "http://wolfthemes.com/plugin/wolf-page-builder"
+
+#~ msgid "A Clean and Simple Page Builder for Wordpress"
+#~ msgstr "Un générateur de Page propre et Simple pour Wordpress"
+
+#~ msgid "WolfThemes"
+#~ msgstr "WolfThemes"
+
+#~ msgid "http://wolfthemes.com"
+#~ msgstr "http://wolfthemes.com"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider"
+
+#~ msgid "Display a Layer slider"
+#~ msgstr "Afficher un curseur de la couche"
+
+#~ msgid "Mailchimp"
+#~ msgstr "Mailchimp"
+
+#~ msgid "Submit text"
+#~ msgstr "Soumettre le texte"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Dashboard"
+#~ msgstr "Tableau de bord"
+
+#~ msgid "Image Post Format"
+#~ msgstr "Format d’image"

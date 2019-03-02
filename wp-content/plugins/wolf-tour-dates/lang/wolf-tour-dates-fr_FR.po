@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Tour Dates\n"
+"POT-Creation-Date: 2016-07-06 13:03+0200\n"
+"PO-Revision-Date: 2016-07-06 13:04+0200\n"
+"Last-Translator: WolfThemes <help@wolfthemes.com>\n"
+"Language-Team: wpwolf.com <support@wpwolf.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: dev\n"
+"X-Poedit-SearchPathExcluded-1: scss\n"
+"X-Poedit-SearchPathExcluded-2: pack\n"
+
+#: classes/class-widget-upcoming-shows.php:24
+msgid "Display your upcoming shows"
+msgstr "Afficher les concerts à venir"
+
+#: classes/class-widget-upcoming-shows.php:27
+#: classes/class-widget-upcoming-shows.php:87 wolf-tour-dates.php:745
+#: wolf-tour-dates.php:1024
+msgid "Upcoming Shows"
+msgstr "Concerts à venir"
+
+#: classes/class-widget-upcoming-shows.php:91
+msgid "View more dates"
+msgstr "Voir plus de dates"
+
+#: classes/class-widget-upcoming-shows.php:97
+msgid "Title"
+msgstr "Titre"
+
+#: classes/class-widget-upcoming-shows.php:101
+msgid "Optional Text"
+msgstr "Text Optionel"
+
+#: classes/class-widget-upcoming-shows.php:105
+msgid "Count"
+msgstr "Nombre"
+
+#: classes/class-widget-upcoming-shows.php:109
+msgid "Artist slug"
+msgstr ""
+
+#: classes/class-widget-upcoming-shows.php:113
+msgid "Shows page URL"
+msgstr "URL de la page des concerts"
+
+#: classes/class-widget-upcoming-shows.php:118
+msgid "Link to show page text"
+msgstr ""
+
+#: templates/single-show.php:59
+#, php-format
+msgid "Buy ticket - %s"
+msgstr ""
+
+#: templates/single-show.php:59 wolf-tour-dates.php:1060
+#: wolf-tour-dates.php:1287
+msgid "Buy ticket"
+msgstr "Acheter un ticket"
+
+#: templates/single-show.php:91 wolf-tour-dates.php:488
+msgid "Free"
+msgstr "Gratuit"
+
+#: templates/single-show.php:95
+msgid "Sold Out !"
+msgstr "Complet !"
+
+#: templates/single-show.php:99 wolf-tour-dates.php:500
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: templates/single-show.php:105 wolf-tour-dates.php:1124
+#: wolf-tour-dates.php:1216
+msgid "View the facebook event page"
+msgstr "Voir la page facebook de l'évènement"
+
+#: templates/single-show.php:122
+msgid "Details"
+msgstr ""
+
+#: templates/single-show.php:125
+#, php-format
+msgid "<strong>Time</strong> : %s"
+msgstr "<strong>Horaires</strong> : %s"
+
+#: templates/single-show.php:129
+#, php-format
+msgid "<strong>Venue</strong> : %s"
+msgstr "<strong>Lieu</strong> : %s"
+
+#: templates/single-show.php:133
+#, php-format
+msgid "<strong>Address</strong> : %s"
+msgstr "<strong>Addresse</strong> : %s"
+
+#: templates/single-show.php:137
+#, php-format
+msgid "<strong>State</strong> : %s"
+msgstr "<strong>Région</strong> : %s"
+
+#: templates/single-show.php:141
+#, php-format
+msgid "<strong>Zip</strong> : %s"
+msgstr "<strong>Code Postal</strong> : %s"
+
+#: templates/single-show.php:145
+#, php-format
+msgid "<strong>Phone</strong> : %s"
+msgstr "<strong>Téléphone</strong> : %s"
+
+#: templates/single-show.php:149
+#, php-format
+msgid "<strong>Contact Email</strong> : %s"
+msgstr "<strong>Email de Contact</strong> : %s"
+
+#: templates/single-show.php:153
+#, php-format
+msgid "<strong>Contact Website</strong> : %s"
+msgstr "<strong>Site Web de Contact</strong> : %s"
+
+#: templates/single-show.php:167
+msgid "Edit"
+msgstr ""
+
+#: wolf-tour-dates.php:289
+msgid "Shows"
+msgstr ""
+
+#: wolf-tour-dates.php:290
+msgid "Show"
+msgstr ""
+
+#: wolf-tour-dates.php:291
+msgid "Add New"
+msgstr ""
+
+#: wolf-tour-dates.php:292
+msgid "Add New Show"
+msgstr ""
+
+#: wolf-tour-dates.php:293
+msgid "All Shows"
+msgstr "Toutes les Dates"
+
+#: wolf-tour-dates.php:294
+msgid "Edit Show"
+msgstr ""
+
+#: wolf-tour-dates.php:295
+msgid "New Show"
+msgstr ""
+
+#: wolf-tour-dates.php:296
+msgid "View Show"
+msgstr ""
+
+#: wolf-tour-dates.php:297
+msgid "Search Shows"
+msgstr ""
+
+#: wolf-tour-dates.php:298
+msgid "No shows found"
+msgstr ""
+
+#: wolf-tour-dates.php:299
+msgid "No shows found in Trash"
+msgstr ""
+
+#: wolf-tour-dates.php:301
+msgid "Tour Dates"
+msgstr ""
+
+#: wolf-tour-dates.php:332 wolf-tour-dates.php:346
+msgid "Artists"
+msgstr ""
+
+#: wolf-tour-dates.php:333
+msgid "Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:334
+msgid "Search Artists"
+msgstr ""
+
+#: wolf-tour-dates.php:335
+msgid "Popular Artists"
+msgstr ""
+
+#: wolf-tour-dates.php:336
+msgid "All Artists"
+msgstr ""
+
+#: wolf-tour-dates.php:337
+msgid "Parent Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:338
+msgid "Parent Artist:"
+msgstr ""
+
+#: wolf-tour-dates.php:339
+msgid "Edit Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:340
+msgid "Update Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:341
+msgid "Add New Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:342
+msgid "New Artist"
+msgstr ""
+
+#: wolf-tour-dates.php:343
+msgid "Separate artists with commas"
+msgstr ""
+
+#: wolf-tour-dates.php:344
+msgid "Add or remove artists"
+msgstr ""
+
+#: wolf-tour-dates.php:345
+msgid "Choose from the most used artists"
+msgstr ""
+
+#: wolf-tour-dates.php:369
+msgid "Settings"
+msgstr ""
+
+#: wolf-tour-dates.php:379
+msgid "Show Details"
+msgstr ""
+
+#: wolf-tour-dates.php:384
+msgid "Artist (leave this field empty if it's always the same artist"
+msgstr ""
+
+#: wolf-tour-dates.php:390
+msgid "Date"
+msgstr ""
+
+#: wolf-tour-dates.php:396
+msgid "City"
+msgstr "Ville"
+
+#: wolf-tour-dates.php:402
+msgid "Time"
+msgstr "Horaires"
+
+#: wolf-tour-dates.php:408
+msgid "Country"
+msgstr "Pays"
+
+#: wolf-tour-dates.php:414
+msgid "Country - short ( e.g : GER for Germany )"
+msgstr ""
+
+#: wolf-tour-dates.php:420
+msgid "State"
+msgstr "Région"
+
+#: wolf-tour-dates.php:426 wolf-tour-dates.php:524
+msgid "Venue"
+msgstr "Lieu"
+
+#: wolf-tour-dates.php:432
+msgid "Address"
+msgstr ""
+
+#: wolf-tour-dates.php:438
+msgid "Zip"
+msgstr ""
+
+#: wolf-tour-dates.php:445
+msgid "Phone"
+msgstr ""
+
+#: wolf-tour-dates.php:451
+msgid "Contact Email"
+msgstr ""
+
+#: wolf-tour-dates.php:456
+msgid "Contact Website"
+msgstr ""
+
+#: wolf-tour-dates.php:462
+msgid "Google map embed code"
+msgstr ""
+
+#: wolf-tour-dates.php:463
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Where to find it?</a>"
+msgstr ""
+
+#: wolf-tour-dates.php:469
+msgid "Facebook event page"
+msgstr ""
+
+#: wolf-tour-dates.php:475
+msgid "Buy Ticket link"
+msgstr ""
+
+#: wolf-tour-dates.php:482
+msgid "Price (e.g : $15)"
+msgstr ""
+
+#: wolf-tour-dates.php:494
+msgid "Sold Out"
+msgstr ""
+
+#: wolf-tour-dates.php:522
+msgid "Show Date"
+msgstr ""
+
+#: wolf-tour-dates.php:523
+msgid "Place"
+msgstr ""
+
+#: wolf-tour-dates.php:525
+msgid "Status"
+msgstr ""
+
+#: wolf-tour-dates.php:540
+#, fuzzy
+msgid "upcoming"
+msgstr "Concerts à venir"
+
+#: wolf-tour-dates.php:544
+msgid "past"
+msgstr ""
+
+#: wolf-tour-dates.php:548 wolf-tour-dates.php:1070 wolf-tour-dates.php:1298
+msgid "cancelled"
+msgstr ""
+
+#: wolf-tour-dates.php:552
+#, fuzzy
+msgid "sold out"
+msgstr "complet !"
+
+#: wolf-tour-dates.php:643
+msgid "Date Format in shows table"
+msgstr ""
+
+#: wolf-tour-dates.php:644
+msgid "Display Past Shows"
+msgstr "Afficher les concerts passés"
+
+#: wolf-tour-dates.php:645
+msgid "Link to single page"
+msgstr ""
+
+#: wolf-tour-dates.php:646
+#, fuzzy
+msgid "Upcoming Shows Text"
+msgstr "Concerts à venir"
+
+#: wolf-tour-dates.php:647
+#, fuzzy
+msgid "Past Shows Text"
+msgstr "Concerts passés"
+
+#: wolf-tour-dates.php:648
+msgid "No Shows Text"
+msgstr ""
+
+#: wolf-tour-dates.php:649
+msgid "Instructions"
+msgstr ""
+
+#: wolf-tour-dates.php:689
+msgid "Date Format"
+msgstr ""
+
+#: wolf-tour-dates.php:692
+msgid "Custom Style"
+msgstr ""
+
+#: wolf-tour-dates.php:714
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: wolf-tour-dates.php:754 wolf-tour-dates.php:1152
+msgid "Past Shows"
+msgstr "Concerts passés"
+
+#: wolf-tour-dates.php:763 wolf-tour-dates.php:1143 wolf-tour-dates.php:1358
+#, fuzzy
+msgid "No upcoming shows scheduled"
+msgstr "Pas de dates prévues"
+
+#: wolf-tour-dates.php:772
+msgid ""
+"To display your tour dates list, paste the following shortcode in a post or "
+"page :"
+msgstr ""
+
+#: wolf-tour-dates.php:774
+msgid "Additionally, you can add some attributes."
+msgstr ""
+
+#: wolf-tour-dates.php:776
+msgid "The \"past\" attribute: display the past shows or not."
+msgstr ""
+
+#: wolf-tour-dates.php:777
+msgid "The \"link\" attribute: link your shows to the single page or not."
+msgstr ""
+
+#: wolf-tour-dates.php:788
+msgid "Tour Dates Options"
+msgstr ""
+
+#: wolf-tour-dates.php:791
+msgid "Settings saved."
+msgstr ""
+
+#: wolf-tour-dates.php:797
+msgid "Save Changes"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Jan"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Feb"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Mar"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Apr"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "May"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Jun"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Jul"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Aug"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Sep"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Oct"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Nov"
+msgstr ""
+
+#: wolf-tour-dates.php:860
+msgid "Dec"
+msgstr ""
+
+#: wolf-tour-dates.php:1060
+#, php-format
+msgid "Buy ticket <span class=\"wolf-show-ticket-price\">- %s</span>"
+msgstr ""
+
+#: wolf-tour-dates.php:1075 wolf-tour-dates.php:1303
+msgid "sold out!"
+msgstr "complet !"
+
+#: wolf-tour-dates.php:1080 wolf-tour-dates.php:1308
+msgid "free"
+msgstr "gratuit"
+
+#: wolf-tour-dates.php:1112 wolf-tour-dates.php:1204 wolf-tour-dates.php:1333
+msgid "View details"
+msgstr "Voir les détails"
+
+#: wolf-tour-dates.php:1128 wolf-tour-dates.php:1220
+msgid "View flyer"
+msgstr "Voir le flyer"

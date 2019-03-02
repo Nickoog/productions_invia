@@ -1,0 +1,211 @@
+# Copyright (C) 2017 WolfThemes
+# This file is distributed under the same license as the Wolf Playlist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Playlist 1.1.4\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wolf-playlist-manager\n"
+"POT-Creation-Date: 2017-02-15 12:41:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/admin/class-wpm-admin.php:62
+msgid "Select an image"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:63
+msgid "Select audio files"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:75
+msgid "Tracklist"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:84
+msgid "Playlist shortcode"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:95
+msgid "Use this playlist as sticky player"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:114
+msgid ""
+"Use this player as sticky player that will be displayed at the bottom of "
+"every page."
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:128
+msgid ""
+"Copy and paste the following shortcode in your post or page to display your "
+"playlist."
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:146
+msgid ""
+"Click on the button below to add tracks to your playlist, then drag and "
+"drop to reorder them."
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:148
+msgid "Add tracks"
+msgstr ""
+
+#: inc/admin/class-wpm-admin.php:246
+msgid "Settings"
+msgstr ""
+
+#: inc/class-wpm-playlist-widget.php:35
+msgid "Displays your chosen playlist."
+msgstr ""
+
+#: inc/class-wpm-playlist-widget.php:37 inc/wpm-register-post-type.php:19
+msgid "Playlist"
+msgstr ""
+
+#: inc/class-wpm-playlist-widget.php:99
+msgid "Title:"
+msgstr ""
+
+#: inc/class-wpm-playlist-widget.php:103
+msgid "Playlist:"
+msgstr ""
+
+#: inc/wpm-core-functions.php:85
+msgid "Remove artwork"
+msgstr ""
+
+#: inc/wpm-core-functions.php:91 inc/wpm-core-functions.php:92
+msgid "Title"
+msgstr ""
+
+#: inc/wpm-core-functions.php:97 inc/wpm-core-functions.php:98
+msgid "Artist"
+msgstr ""
+
+#: inc/wpm-core-functions.php:103
+msgid "Lenght"
+msgstr ""
+
+#: inc/wpm-core-functions.php:112
+msgid "iTunes"
+msgstr ""
+
+#: inc/wpm-core-functions.php:119
+msgid "amazon"
+msgstr ""
+
+#: inc/wpm-core-functions.php:126
+msgid "Other buy URL"
+msgstr ""
+
+#: inc/wpm-core-functions.php:134
+msgid "Remove"
+msgstr ""
+
+#: inc/wpm-core-functions.php:135
+msgid "Close"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:18 inc/wpm-register-post-type.php:30
+msgid "Playlists"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:20
+msgid "Add New"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:21
+msgid "Add New Playlist"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:22
+msgid "All Playlists"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:23
+msgid "Edit Playlist"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:24
+msgid "New Playlist"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:25
+msgid "View Playlist"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:26
+msgid "Search Playlists"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:27
+msgid "No playlist found"
+msgstr ""
+
+#: inc/wpm-register-post-type.php:28
+msgid "No playlist found in Trash"
+msgstr ""
+
+#: templates/playlist.php:34
+msgid "buy on iTunes"
+msgstr ""
+
+#: templates/playlist.php:37
+msgid "buy on amazon"
+msgstr ""
+
+#: templates/playlist.php:40
+msgid "buy now"
+msgstr ""
+
+#: templates/single-wpm_playlist.php:38
+msgid "Edit"
+msgstr ""
+
+#: wolf-playlist-manager.php:103 wolf-playlist-manager.php:110
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: wolf-playlist-manager.php:139
+msgid ""
+"%1$s needs at least PHP %2$s installed on your server. You have version "
+"%3$s currently installed. Please contact your hosting service provider if "
+"you're not able to update PHP by yourself."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf Playlist"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wolfthemes.com/plugin/wolf-playlist-manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to manage your playlists"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wolfthemes.com"
+msgstr ""

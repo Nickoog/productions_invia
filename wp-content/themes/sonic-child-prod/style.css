@@ -1,0 +1,36 @@
+/*
+Theme Name:  Sonic Child Prod
+Theme URI: http://demo.wolfthemes.com/sonic
+Description: Sonic Child theme
+Author: WolfThemes
+Author URI: http://wolfthemes.com/
+Template: sonic
+Version: 1.0.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+.custom-button a{
+    color: #fcaf17 !important;
+}
+
+input[type=submit].wpcf7-form-control {
+     color: #fcaf17 !important;
+    background: none;
+    border-color: rgb(0, 0, 0);
+}
+
+input[type=submit].wpcf7-form-control:hover {
+    background: rgb(0, 0, 0);
+}
+@media screen and (min-width: 800px){
+    #home-review,
+    #home-review-title {
+        width: 50% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+}
